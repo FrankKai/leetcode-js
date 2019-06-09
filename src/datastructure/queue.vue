@@ -8,7 +8,6 @@
 
 <script>
 import MyQueue from "./queue";
-
 const queueInitializer = (() => ({
   data: [],
   p_start: 0,
@@ -16,7 +15,6 @@ const queueInitializer = (() => ({
     return false;
   }
 }))();
-
 export default {
   name: "queue",
   data() {
