@@ -8,6 +8,7 @@ Leetcode's answers by javascript.
 - [9.Palindrome Number](/9.Palindrome_Number.js)
 - [13.Roman to Integer](/13.Roman_to_Integer.js)
 - [14.Longest Common Prefix](/14.Longest_Common_Prefix.js)
+- [20.Valid Parentheses](/20.Valid_Parentheses.js)
 - [26.Remove Duplicates from Sroted Array](/26.Remove_Duplicates_from_Sroted_Array.js)
 - [27.Remove Element](/27.Remove_Element.js)
 
