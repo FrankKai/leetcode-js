@@ -12,6 +12,8 @@ Leetcode's answers by javascript.
 - [21.Merge Two Sorted Lists](/21.Merge_Two_Sorted_Lists.js)
 - [26.Remove Duplicates from Sroted Array](/26.Remove_Duplicates_from_Sroted_Array.js)
 - [27.Remove Element](/27.Remove_Element.js)
+- [28.Implement strStr()](/28.Implement_strStr().js)
+- [35.Search_Insert_Position](/35.Search_Insert_Position.js)
 
 ### medium
 - [94.Binary Tree Inorder Traversal](/94.Binary_Tree_Inorder_Traversal.js)
