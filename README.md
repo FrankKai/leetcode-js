@@ -15,6 +15,7 @@ Leetcode's answers by javascript.
 - [27.Remove Element](/27.Remove_Element.js)
 - [28.Implement strStr()](/28.Implement_strStr().js)
 - [35.Search Insert Position](/35.Search_Insert_Position.js)
+- [58.Length of Last World](/58.Length_of_Last_World.js)
 - [202.Happy Number](/202.Happy_Number.js)
 - [349.Intersection of Two Arrays](/349.Intersection_of_Two_Arrays.js)
 - [645.Set Mismatch](/645.Set_Mismatch.js)
