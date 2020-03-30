@@ -38,9 +38,9 @@
  * @param {number} n
  * @return {boolean}
  */
-var isHappy = function(n, arr) {
+var isHappy = function(n) {
   if (n == 1) return true;
-  var nextNums = arr || [];
+  var nextNums = arguments[1] || [];
   var nextNumsSet = new Set(nextNums);
   // 通过Set对数组去重，比较size和length的大小
   if (nextNumsSet.size !== nextNums.length) {

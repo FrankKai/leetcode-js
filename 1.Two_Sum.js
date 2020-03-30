@@ -23,7 +23,7 @@ var twoSum = function(nums, target) {
    * 解法2：快慢指针+递归 372ms
    */
   // 慢指针
-  var i = idx || 0;
+  var i = arguments[2] || 0;
   // 快指针
   var j = 1;
   for (; j < nums.length; ) {
