@@ -4,6 +4,9 @@
  * @return {number[]}
  */
 var twoSum = function(nums, target) {
+  /**
+   * 解法1：暴力迭代 580ms
+   */
   var numsMaster = nums;
   var numsSlave = nums.map(e => e);
   var idxArr = [];
@@ -16,4 +19,24 @@ var twoSum = function(nums, target) {
     });
   });
   return idxArr;
+  /**
+   * 解法2：快慢指针+递归 372ms
+   */
+  // 慢指针
+  var i = idx || 0;
+  // 快指针
+  var j = 1;
+  for (; j < nums.length; ) {
+    if (nums[j] + nums[i] === target && j !== i) {
+      return [i, j];
+    }
+    if (nums[j] + nums[i] !== target) {
+      if (j === nums.length - 1) {
+        i++;
+        // 递归
+        return twoSum(nums, target, i);
+      }
+    }
+    j++;
+  }
 };
