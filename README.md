@@ -20,6 +20,7 @@ Leetcode's answers by javascript.
 - [88.Merge Sorted Array](/88.Merge_Sorted_Array.js)
 - [189.Rotate Array](/189.Rotate_Array.js)
 - [202.Happy Number](/202.Happy_Number.js)
+- [217.Contains Duplicate](/217.Contains_Duplicate.js)
 - [349.Intersection of Two Arrays](/349.Intersection_of_Two_Arrays.js)
 - [645.Set Mismatch](/645.Set_Mismatch.js)
 - [1331.Rank Transform of an Array](/1331.Rank_Transform_of_an_Array.js)
