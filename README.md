@@ -16,6 +16,7 @@ Leetcode's answers by javascript.
 - [28.Implement strStr()](/28.Implement_strStr().js)
 - [35.Search Insert Position](/35.Search_Insert_Position.js)
 - [58.Length of Last World](/58.Length_of_Last_World.js)
+- [66.Plus One](/66.Plus_One.js)
 - [69.Sqrt(x)](/69.Sqrt(x).js)
 - [88.Merge Sorted Array](/88.Merge_Sorted_Array.js)
 - [189.Rotate Array](/189.Rotate_Array.js)
