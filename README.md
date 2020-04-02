@@ -33,6 +33,7 @@ Leetcode's answers by javascript.
 - [94.Binary Tree Inorder Traversal](/94.Binary_Tree_Inorder_Traversal.js)
 - [144.Binary Tree Preorder Traversal](/144.Binary_Tree_Preorder_Traversal.js)
 - [622.Queue Circular](/622.Queue_Circular.js)
+- [739.Daily Temperatures](/739.Daily_Temperatures.js)
 
 ### difficult
 
