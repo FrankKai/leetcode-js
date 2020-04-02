@@ -25,7 +25,7 @@ var dailyTemperatures = function(T) {
   }
   return result;
   /**
-   * 解法2：栈 + 递归
+   * 解法2：栈 + 递归 1132ms 19.96% 59.2MB 11.76%
    * 思路：
    * 1.通过shift取出栈底元素
    * 2.遍历剩余温度栈内温度
