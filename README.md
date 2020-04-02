@@ -20,6 +20,7 @@ Leetcode's answers by javascript.
 - [69.Sqrt(x)](/69.Sqrt(x).js)
 - [88.Merge Sorted Array](/88.Merge_Sorted_Array.js)
 - [100.Same Tree](/100.Same_Tree.js)
+- [155.Min Stack](/155.Min_Stack.js)
 - [189.Rotate Array](/189.Rotate_Array.js)
 - [202.Happy Number](/202.Happy_Number.js)
 - [217.Contains Duplicate](/217.Contains_Duplicate.js)
