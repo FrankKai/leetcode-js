@@ -26,6 +26,7 @@ Leetcode's answers by javascript.
 - [202.Happy Number](/202.Happy_Number.js)
 - [217.Contains Duplicate](/217.Contains_Duplicate.js)
 - [349.Intersection of Two Arrays](/349.Intersection_of_Two_Arrays.js)
+- [561.Array Partition I](/561.Array_Partition_I.js)
 - [645.Set Mismatch](/645.Set_Mismatch.js)
 - [1331.Rank Transform of an Array](/1331.Rank_Transform_of_an_Array.js)
 
