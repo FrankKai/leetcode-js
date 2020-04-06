@@ -40,6 +40,7 @@ Leetcode's answers by javascript.
 - [384.Shuffle an Array](/384.Shuffle_an_Array.js)
 - [622.Queue Circular](/622.Queue_Circular.js)
 - [739.Daily Temperatures](/739.Daily_Temperatures.js)
+- [912.Sort an Array](/912.Sort_an_Array.js)
 
 ### difficult
 
