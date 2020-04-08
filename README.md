@@ -36,6 +36,7 @@ Leetcode's answers by javascript.
 
 ### medium
 
+- [75.Sort Colors](/75.Sort_Colors.js)
 - [94.Binary Tree Inorder Traversal](/94.Binary_Tree_Inorder_Traversal.js)
 - [144.Binary Tree Preorder Traversal](/144.Binary_Tree_Preorder_Traversal.js)
 - [384.Shuffle an Array](/384.Shuffle_an_Array.js)
