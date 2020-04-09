@@ -15,4 +15,8 @@ var findKthLargest = function (nums, k) {
    * Python中有heapq.nlargest
    * js在数据结构方面的封装好的class相对弱很多，想使用最大堆得首先实现一个优先队列
    */
+
+  /**
+   * 解法3：快速排序法
+   */
 };
