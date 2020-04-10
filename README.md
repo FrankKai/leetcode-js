@@ -21,6 +21,7 @@ Leetcode's answers by javascript.
 - [69.Sqrt(x)](/69.Sqrt(x).js)
 - [88.Merge Sorted Array](/88.Merge_Sorted_Array.js)
 - [100.Same Tree](/100.Same_Tree.js)
+- [125.Valid Palindrome](/125.Valid_Palindrome.js)
 - [155.Min Stack](/155.Min_Stack.js)
 - [167.Two Sum II - Input array is sorted](/167.Two_Sum_II-Input_array_is_sorted.js)
 - [189.Rotate Array](/189.Rotate_Array.js)
