@@ -39,6 +39,7 @@ Leetcode's answers by javascript.
 - [645.Set Mismatch](/645.Set_Mismatch.js)
 - [905.Sort Array By Parity](/905.Sort_Array_By_Parity.js)
 - [941.Valid Mountain Array](/941.Valid_Mountain_Array.js)
+- [977.Squares of a Sorted Array](/977.Squares_of_a_Sorted_Array.js)
 - [1331.Rank Transform of an Array](/1331.Rank_Transform_of_an_Array.js)
 
 ### medium
