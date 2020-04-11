@@ -43,6 +43,7 @@ Leetcode's answers by javascript.
 - [989.Add to Array-Form of Integer](/989.Add_to_Array-Form_of_Integer.js)
 - [1287.Element Appearing More Than 25% In Sorted Array](/1287.Element_Appearing_More_Than_25%_In_Sorted_Array.js)
 - [1331.Rank Transform of an Array](/1331.Rank_Transform_of_an_Array.js)
+- [1394.Find Lucky Integer in an Array](/1394.Find_Lucky_Integer_in_an_Array.js)
 
 ### medium
 
