@@ -31,7 +31,7 @@ var findDisappearedNumbers = function (nums) {
 
   /**
    * 解法3：Set
-   * 描述：类似HashMap，性能比Array.prototype.includes高50倍
+   * 描述：类似HashMap，仅仅多消耗1MB的内存，计算速度比Array.prototype.includes快50倍
    * 性能：156ms 53.5MB
    * 时间复杂度：O(N)
    * 空间复杂度：O(N)
