@@ -40,6 +40,7 @@ Leetcode's answers by javascript.
 - [905.Sort Array By Parity](/905.Sort_Array_By_Parity.js)
 - [941.Valid Mountain Array](/941.Valid_Mountain_Array.js)
 - [977.Squares of a Sorted Array](/977.Squares_of_a_Sorted_Array.js)
+- [989.Add to Array-Form of Integer](/989.Add_to_Array-Form_of_Integer.js)
 - [1331.Rank Transform of an Array](/1331.Rank_Transform_of_an_Array.js)
 
 ### medium
