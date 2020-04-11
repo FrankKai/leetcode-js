@@ -33,6 +33,7 @@ Leetcode's answers by javascript.
 - [344.Reverse String](/344.Reverse_String.js)
 - [345.Reverse Vowels of a String](/345.Reverse_Vowels_of_a_String.js)
 - [349.Intersection of Two Arrays](/349.Intersection_of_Two_Arrays.js)
+- [448.Find All Numbers Disappeared in an Array](/448.Find_All_Numbers_Disappeared_in_an_Array.js)
 - [561.Array Partition I](/561.Array_Partition_I.js)
 - [581.Shortest Unsorted Continuous Subarray](/581.Shortest_Unsorted_Continuous_Subarray.js)
 - [645.Set Mismatch](/645.Set_Mismatch.js)
