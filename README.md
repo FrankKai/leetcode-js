@@ -24,6 +24,7 @@ Leetcode's answers by JavaScript.
 - [88.合并两个有序数组 (Merge Sorted Array)](/88.Merge_Sorted_Array.js)
 - [100.相同的树 (Same Tree)](/100.Same_Tree.js)
 - [125.验证回文串 (Valid Palindrome)](/125.Valid_Palindrome.js)
+- [136.只出现一次的数字 (Single Number)](/136.Single_Number.js)
 - [155.最小栈 (Min Stack)](/155.Min_Stack.js)
 - [167.两数之和 II - 输入有序数组 (Two Sum II - Input array is sorted)](/167.Two_Sum_II-Input_array_is_sorted.js)
 - [189.旋转数组 (Rotate Array)](/189.Rotate_Array.js)
