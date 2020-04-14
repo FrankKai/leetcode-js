@@ -27,6 +27,7 @@ Leetcode's answers by JavaScript.
 - [136.只出现一次的数字 (Single Number)](/136.Single_Number.js)
 - [155.最小栈 (Min Stack)](/155.Min_Stack.js)
 - [167.两数之和 II - 输入有序数组 (Two Sum II - Input array is sorted)](/167.Two_Sum_II-Input_array_is_sorted.js)
+- [169.多数元素 (Majority Element)](/169.Majority_Element.js)
 - [189.旋转数组 (Rotate Array)](/189.Rotate_Array.js)
 - [190.颠倒二进制位 (Reverse Bits)](/190.Reverse_Bits.js)
 - [191.位1的个数 Number of 1 Bits](/191.Number_of_1_Bits.js)
