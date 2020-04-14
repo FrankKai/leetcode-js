@@ -28,6 +28,7 @@ Leetcode's answers by JavaScript.
 - [155.最小栈 (Min Stack)](/155.Min_Stack.js)
 - [167.两数之和 II - 输入有序数组 (Two Sum II - Input array is sorted)](/167.Two_Sum_II-Input_array_is_sorted.js)
 - [189.旋转数组 (Rotate Array)](/189.Rotate_Array.js)
+- [190.颠倒二进制位 (Reverse Bits)](/190.Reverse_Bits.js)
 - [202.快乐数 (Happy Number)](/202.Happy_Number.js)
 - [217.存在重复元素 (Contains Duplicate)](/217.Contains_Duplicate.js)
 - [225.用队列实现栈 (Implement Stack using Queues)](/225.Implement_Stack_using_Queues.js)
