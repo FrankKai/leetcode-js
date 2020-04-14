@@ -64,4 +64,16 @@ var singleNumber = function (nums) {
       return key;
     }
   }
+  /**解法5：reduce
+   * 性能：80ms 37.1MB
+   */
+  let countedNums = nums.reduce((acc, cur) => {
+    if (!(cur in acc)) {
+      acc[cur] = 1;
+    } else {
+      delete acc[cur];
+    }
+    return acc;
+  }, {});
+  return Object.keys(countedNums)[0];
 };
