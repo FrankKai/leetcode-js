@@ -26,4 +26,26 @@ var majorityElement = function (nums) {
     }
   }
   return result;
+  /**
+   * 解法2：reduce
+   * 性能：76ms 37MB
+   */
+  let average = nums.length / 2;
+  let countedNums = nums.reduce((acc, cur) => {
+    if (!acc.has(cur)) {
+      acc.set(cur, 1);
+    } else {
+      acc.set(cur, acc.get(cur) + 1);
+    }
+    return acc;
+  }, new Map());
+  let max = 0;
+  let result = 0;
+  for (let [key, value] of countedNums) {
+    if (value > average) {
+      max = Math.max(max, value);
+      if (max === value) result = key;
+    }
+  }
+  return result;
 };
