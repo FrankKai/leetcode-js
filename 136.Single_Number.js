@@ -32,4 +32,17 @@ var singleNumber = function (nums) {
     }
   }
   return [...numsSet][0];
+  /**
+   * 解法3： Obj in为false时添加 in为true时移除
+   * 性能：92ms 37MB
+   */
+  let numsObj = {};
+  for (let i = 0; i < nums.length; i++) {
+    if (!(nums[i] in numsObj)) {
+      numsObj[nums[i]] = nums[i];
+    } else {
+      delete numsObj[nums[i]];
+    }
+  }
+  return Object.keys(numsObj)[0];
 };
