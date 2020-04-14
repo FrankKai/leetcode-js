@@ -32,6 +32,7 @@ Leetcode's answers by JavaScript.
 - [217.存在重复元素 (Contains Duplicate)](/217.Contains_Duplicate.js)
 - [225.用队列实现栈 (Implement Stack using Queues)](/225.Implement_Stack_using_Queues.js)
 - [232.用栈实现队列 (Implement Queue using Stacks)](/232.Implement_Queue_using_Stacks.js)
+- [258.各位相加 (Add Digits)](/258.Add_Digits.js)
 - [268.缺失数字 (Missing Number)](/268.Missing_Number.js)
 - [283.移动零 (Move Zeroes)](/283.Move_Zeroes.js)
 - [344.反转字符串 (Reverse String)](/344.Reverse_String.js)
