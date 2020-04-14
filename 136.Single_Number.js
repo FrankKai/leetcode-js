@@ -20,7 +20,8 @@ var singleNumber = function (nums) {
   });
   let filterArr = numsMap.filter((num) => num.count === 1);
   return filterArr[0].num;
-  /** 解法2：Set 首次出现add 二次出现delete
+  /** 解法2：Set
+   *  思路：首次出现add 二次出现delete
    *  性能: 72 ms 38MB
    */
   let numsSet = new Set();
@@ -33,7 +34,8 @@ var singleNumber = function (nums) {
   }
   return [...numsSet][0];
   /**
-   * 解法3： Obj in为false时添加 in为true时移除
+   * 解法3：in
+   * 思路：Obj in为false时添加 in为true时移除
    * 性能：92ms 37MB
    */
   let numsObj = {};
@@ -45,4 +47,21 @@ var singleNumber = function (nums) {
     }
   }
   return Object.keys(numsObj)[0];
+  /**解法4：Map
+   * 思路：统计出现次数，比Set可用性更强
+   * 性能：72ms 38MB
+   */
+  let numsMap = new Map();
+  for (let i = 0; i < nums.length; i++) {
+    if (!numsMap.has(nums[i])) {
+      numsMap.set(nums[i], 1);
+    } else {
+      numsMap.set(nums[i], numsMap.get(nums[i]) + 1);
+    }
+  }
+  for (let [key, value] of numsMap) {
+    if (value === 1) {
+      return key;
+    }
+  }
 };
