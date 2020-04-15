@@ -64,6 +64,7 @@ Leetcode's answers by JavaScript.
 - [94.二叉树的中序遍历 (Binary Tree Inorder Traversal)](/94.Binary_Tree_Inorder_Traversal.js)
 - [144.二叉树的前序遍历 (Binary Tree Preorder Traversal)](/144.Binary_Tree_Preorder_Traversal.js)
 - [215.数组中的第K个最大元素 (Kth Largest Element in an Array)](/215.Kth_Largest_Element_in_an_Array.js)
+- [228.汇总区间 (Summary Ranges)](/228.Summary_Ranges.js)
 - [384.打乱数组 (Shuffle an Array)](/384.Shuffle_an_Array.js)
 - [622.设计循环队列 (Queue Circular)](/622.Queue_Circular.js)
 - [739.每日温度 (Daily Temperatures)](/739.Daily_Temperatures.js)
