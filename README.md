@@ -41,6 +41,7 @@ Leetcode's answers by JavaScript.
 - [344.反转字符串 (Reverse String)](/344.Reverse_String.js)
 - [345.反转字符串中的元音字母 (Reverse Vowels of a String)](/345.Reverse_Vowels_of_a_String.js)
 - [349.两个数组的交集 (Intersection of Two Arrays)](/349.Intersection_of_Two_Arrays.js)
+- [389.找不同 (Find the Difference)](/389.Find_the_Difference.js)
 - [448.找到所有数组中消失的数字 (Find All Numbers Disappeared in an Array)](/448.Find_All_Numbers_Disappeared_in_an_Array.js)
 - [485.最大连续1的个数 (Max Consecutive Ones)](/485.Max_Consecutive_Ones.js)
 - [500.键盘行 (Keyboard Row)](/500.Keyboard_Row.js)
