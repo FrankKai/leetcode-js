@@ -70,6 +70,7 @@ Leetcode's answers by JavaScript.
 - [622.设计循环队列 (Queue Circular)](/622.Queue_Circular.js)
 - [739.每日温度 (Daily Temperatures)](/739.Daily_Temperatures.js)
 - [912.排序数组 (Sort an Array)](/912.Sort_an_Array.js)
+- [986.区间列表的交集 (Interval List Intersections)](/986.Interval_List_Intersection.js)
 
 ### difficult
 
