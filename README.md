@@ -49,6 +49,7 @@ Leetcode's answers by JavaScript.
 - [561.数组拆分 I (Array Partition I)](/561.Array_Partition_I.js)
 - [581.最短无序连续子数组 (Shortest Unsorted Continuous Subarray)](/581.Shortest_Unsorted_Continuous_Subarray.js)
 - [645.错误的集合 (Set Mismatch)](/645.Set_Mismatch.js)
+- [728.自除数 (Self Dividing Numbers)](/728.Self_Dividing_Numbers.js)
 - [905.按奇偶排序数组 (Sort Array By Parity)](/905.Sort_Array_By_Parity.js)
 - [941.有效的山脉数组 (Valid Mountain Array)](/941.Valid_Mountain_Array.js)
 - [977.有序数组的平方 (Squares of a Sorted Array)](/977.Squares_of_a_Sorted_Array.js)
