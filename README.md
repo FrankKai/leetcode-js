@@ -19,6 +19,7 @@ Leetcode's answers by JavaScript.
 - [53.最大子序和 (Maximum Subarray)](/53.Maximum_Subarray.js)
 - [58.最后一个单词的长度 (Length of Last World)](/58.Length_of_Last_World.js)
 - [66.加一 (Plus One)](/66.Plus_One.js)
+- [67.二进制求和 (Add Binary)](/67.Add_Binary.js)
 - [69.x 的平方根 (Sqrt(x))](/69.Sqrt(x).js)
 - [70.爬楼梯 (Climbing Stairs)](/70.Climbing_Stairs.js)
 - [88.合并两个有序数组 (Merge Sorted Array)](/88.Merge_Sorted_Array.js)
