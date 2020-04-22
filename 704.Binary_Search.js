@@ -59,4 +59,27 @@ var search = function (nums, target) {
       j = mid;
     }
   }
+  /**
+   * 解法3：二分查找（模板一）
+   */
+  var search = function (nums, target) {
+    if (nums.length === 1) {
+      return nums[0] === target ? 0 : -1;
+    }
+    let index = 0;
+    let i = 0;
+    let j = nums.length - 1;
+    while (i <= j) {
+      let mid = i + Math.floor((j - i) / 2);
+      if (target === nums[mid]) {
+        return mid;
+      }
+      if (target > nums[mid]) {
+        i = mid + 1;
+      } else {
+        j = mid - 1;
+      }
+    }
+    return -1;
+  };
 };
