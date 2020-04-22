@@ -61,6 +61,11 @@ var search = function (nums, target) {
   }
   /**
    * 解法3：二分查找（模板一）
+   * 思路：
+   * 初始条件：left = 0；right=length-1
+   * 终止条件：left>right
+   * 向右查找：left = mid + 1
+   * 向左查找：right = mid -1
    */
   var search = function (nums, target) {
     if (nums.length === 1) {
