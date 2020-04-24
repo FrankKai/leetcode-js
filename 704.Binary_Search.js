@@ -27,6 +27,7 @@ var search = function (nums, target) {
   return -1;
   /**
    * 解法2：二分查找
+   * 时间复杂度: O(logn)
    * 性能：68ms 36.7MB
    * 思路：
    * 目标索引：index；左指针：i；右指针：j；中间指针：mid
@@ -61,6 +62,7 @@ var search = function (nums, target) {
   }
   /**
    * 解法3：二分查找（模板一）
+   * 时间复杂度: O(logn)
    * 思路：
    * 初始条件：left = 0；right=length-1
    * 终止条件：left>right

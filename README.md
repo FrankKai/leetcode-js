@@ -67,6 +67,7 @@ Leetcode's answers by JavaScript.
 ### medium
 
 - [11.盛水最多的容器（Container With Most Water）](/11.Container_With_Most_Water.js)
+- [33.搜索旋转排序数组 (Search in Rotated Sorted Array)](/33.Search_in_Rotated_Sorted_Array.js)
 - [56.合并区间 (Merge Intervals)](/56.Merge_Intervals.js)
 - [75.颜色分类 (Sort Colors)](/75.Sort_Colors.js)
 - [94.二叉树的中序遍历 (Binary Tree Inorder Traversal)](/94.Binary_Tree_Inorder_Traversal.js)

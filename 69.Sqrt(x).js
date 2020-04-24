@@ -10,6 +10,7 @@ var mySqrt = function (x) {
   return Math.floor(Math.sqrt(x));
   /**
    * 解法2：二分查找
+   * 时间复杂度: O(logn)
    * 性能：84ms 35.4MB
    * 分析：以求8的平方根为例
    * x     8
