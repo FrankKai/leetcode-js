@@ -22,10 +22,10 @@ var mySqrt = function (x) {
   let right = x - 1;
   while (left <= right) {
     let mid = left + Math.floor((right - left) / 2);
-    if (mid * mid > x) {
-      right = mid - 1;
-    } else if (mid * mid < x) {
+    if (x > mid * mid) {
       left = mid + 1;
+    } else if (x < mid * mid) {
+      right = mid - 1;
     } else {
       return mid;
     }
