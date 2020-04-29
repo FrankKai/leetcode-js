@@ -28,14 +28,11 @@ var addBinary = function (a, b) {
       stackBottom = stack.shift() || 0;
     }
     let sum = parseInt(aPop) + parseInt(bPop) + parseInt(stackBottom);
-    if (sum === 0 || sum === 1) {
-      stack.unshift(`${sum}`);
-    } else if (sum === 2) {
-      stack.unshift("0");
-      stack.unshift("1");
-    } else if (sum === 3) {
-      stack.unshift("1");
-      stack.unshift("1");
+    if (sum <= 1) {
+      stack.unshift(sum);
+    } else {
+      stack.unshift(sum - 2);
+      stack.unshift(1);
     }
     count++;
   }
