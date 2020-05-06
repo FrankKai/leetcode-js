@@ -62,6 +62,7 @@ var search = function (nums, target) {
   }
   /**
    * 解法3：二分查找（模板一）
+   * 访问数组中的单个索引
    * 时间复杂度: O(logn)
    * 思路：
    * 初始条件：left = 0；right=length-1
