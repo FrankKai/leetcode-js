@@ -65,6 +65,7 @@ Leetcode's answers by JavaScript.
 - [1287.有序数组中出现次数超过25%的元素 (Element Appearing More Than 25% In Sorted Array)](/1287.Element_Appearing_More_Than_25_In_Sorted_Array.js)
 - [1331.数组序号转换 (Rank Transform of an Array)](/1331.Rank_Transform_of_an_Array.js)
 - [1394.找出数组中的幸运数 (Find Lucky Integer in an Array)](/1394.Find_Lucky_Integer_in_an_Array.js)
+- [1431.拥有最多糖果的孩子 (Kids With the Greatest Number of Candies)](/1431.Kids_With_the_Greatest_Number_of_Candies.js)
 
 ### medium
 
