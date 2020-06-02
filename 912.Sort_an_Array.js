@@ -33,4 +33,25 @@ var sortArray = function (nums) {
     }
   }
   return nums;
+  /**
+   * 解法4：选择排序
+   * 思路：已排序区间和未排序区间。在未排序区间中找到最小数，与未排序区间的第一项（已排序区间的下一项）交换，将已排序区间从[]构造成[...]，最终完成排序。若是降序的话，则找最大的数。
+   * 性能：2104ms 41.5MB
+   */
+  for (let i = 0; i < nums.length; i++) {
+    let min = nums[i];
+    let idx = i;
+    for (let j = i + 1; j < nums.length; j++) {
+      if (nums[j] < min) {
+        min = nums[j];
+        idx = j;
+      }
+      if (j === nums.length - 1) {
+        let temp = nums[i];
+        nums[i] = nums[idx];
+        nums[idx] = temp;
+      }
+    }
+  }
+  return nums;
 };
