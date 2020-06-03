@@ -22,6 +22,7 @@ var sortArray = function (nums) {
    * 解法3：冒泡排序
    * 思路：外层每次循环都是不断将最大值置于尾部,最小值像气泡一样向前冒出
    * 性能：4704ms 39.4MB
+   * 时间复杂度：O(n^2)
    */
   for (let i = 0; i < nums.length; i++) {
     for (let j = 0; j < nums.length - 1 - i; j++) {
@@ -37,6 +38,7 @@ var sortArray = function (nums) {
    * 解法4：选择排序
    * 思路：已排序区间和未排序区间。在未排序区间中找到最小数，与未排序区间的第一项（已排序区间的下一项）交换，将已排序区间从[]构造成[...]，最终完成排序。若是降序的话，则找最大的数。
    * 性能：2104ms 41.5MB
+   * 时间复杂度：O(n^2)
    */
   for (let i = 0; i < nums.length; i++) {
     let min = nums[i];
@@ -57,9 +59,9 @@ var sortArray = function (nums) {
   /**
    * 解法5：插入排序
    * 思路：已排序区间和未排序区间。取出未排序区间的第一项，在已排序区间上找到自己的位置,一般来说是找foo<x<bar，将x插入foo和bar之间，或者是x<bar插入头部。
-   * 时间复杂度: O(1)
-   * 性能：2008ms 43.9MB
    * 关键点：插入到指定位置后立即停止在已排序数组中查找
+   * 性能：2008ms 43.9MB
+   * 时间复杂度：O(n^2)
    * */
   const sorted = [nums[0]];
   for (let i = 1; i < nums.length; i++) {
@@ -78,9 +80,10 @@ var sortArray = function (nums) {
   return sorted;
   /**
    * 解法5优化版：插入排序（不借助辅助数组）
-   * 性能：2372ms 42.5MB
    * 思路：插入splice(j/j+1, 0), 删除splice(i, 1)[0]
    * 需要注意的是: splice()返回的是一个数组，例如[1]
+   * 性能：2372ms 42.5MB
+   * 时间复杂度：O(n^2)
    */
   for (let i = 1; i < nums.length; i++) {
     for (let j = i - 1; j >= 0; j--) {
@@ -95,4 +98,37 @@ var sortArray = function (nums) {
     }
   }
   return nums;
+  /**
+   * 解法6：归并排序
+   * 思路：将长度为n的数组拆为n/2长度的数组，分别对各自进行排序。再将n/2长度的数组使用归并排序，直到最终的排序的数组长度为2，最后将最终排序的数组依次向上合并
+   * 核心：二分和递归。类似二分排序，自顶向下二分拆解排序，自底向上合并排序结果。
+   * 注意：终止递归的条件为if (length <= 1) { return nums; }
+   * 性能：260ms 47.9MB
+   * 时间复杂度: O(n log n)
+   */
+  const merge = (left, right) => {
+    const result = [];
+    while (left.length && right.length) {
+      if (left[0] >= right[0]) {
+        result.push(right.shift());
+      } else {
+        result.push(left.shift());
+      }
+    }
+    while (left.length) {
+      result.push(left.shift());
+    }
+    while (right.length) {
+      result.push(right.shift());
+    }
+    return result;
+  };
+  let length = nums.length;
+  if (length <= 1) {
+    return nums;
+  }
+  let middle = Math.floor(length / 2);
+  let left = nums.splice(0, middle);
+  let right = nums;
+  return merge(sortArray(left), sortArray(right));
 };
