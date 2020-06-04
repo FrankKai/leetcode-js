@@ -104,7 +104,7 @@ var sortArray = function (nums) {
    * 核心：二分和递归。类似二分排序，自顶向下二分拆解排序，自底向上合并排序结果。
    * 注意：终止递归的条件为if (length <= 1) { return nums; }
    * 性能：260ms 47.9MB
-   * 时间复杂度: O(n log n)
+   * 时间复杂度: O(nlogn)
    */
   const merge = (left, right) => {
     const result = [];
@@ -131,4 +131,48 @@ var sortArray = function (nums) {
   let left = nums.splice(0, middle);
   let right = nums;
   return merge(sortArray(left), sortArray(right));
+  /**解法7：快速排序
+   * 思路：
+   * 1.选中一个分割点split
+   * 2.定义左右双指针，一次遍历将分割值小的置于左侧，比分割值大的置于右侧
+   * 2.1 左右指针不相遇时 swap(left, right)
+   * 2.2 左右指针相遇时，swap(start, left)并且返回left
+   * 3.分治递归式为左右两侧序列快排
+   * 性能：128ms 40.8MB
+   * 时间复杂度：O(nlogn)
+   */
+  quickSort(nums, 0, nums.length - 1);
+  return nums;
+  // 定义一个快排函数
+  function quickSort(arr, left, right) {
+    if (left < right) {
+      let splitIndex = findSplitIndex(nums, left, right);
+      quickSort(nums, left, splitIndex - 1);
+      quickSort(nums, splitIndex + 1, right);
+    }
+  }
+  // 查找分割值索引
+  function findSplitIndex(arr, left, right) {
+    const start = left;
+    const splitValue = arr[start];
+    while (left !== right) {
+      while (left < right && arr[right] > splitValue) {
+        right--;
+      }
+      while (left < right && arr[left] <= splitValue) {
+        left++;
+      }
+      if (left < right) {
+        swap(arr, left, right);
+      }
+    }
+    swap(arr, start, left);
+    return left;
+  }
+  // 交换位置：左右交换、分割点与left交换
+  function swap(arr, i, j) {
+    const temp = arr[j];
+    arr[j] = arr[i];
+    arr[i] = temp;
+  }
 };
