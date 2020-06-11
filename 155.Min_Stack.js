@@ -58,7 +58,7 @@ class MinStack {
     this.stack.pop();
   }
 
-  top(): number | number {
+  top(): number {
     return this.stack[this.stack.length - 1];
   }
 
