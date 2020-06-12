@@ -67,6 +67,7 @@ Leetcode's answers by JavaScript.
 - [989.数组形式的整数加法 (Add to Array-Form of Integer)](/989.Add_to_Array-Form_of_Integer.js)
 - [1089.复写零 (Duplicate Zeros)](/1089.Duplicate_Zeros.js)
 - [1287.有序数组中出现次数超过25%的元素 (Element Appearing More Than 25% In Sorted Array)](/1287.Element_Appearing_More_Than_25_In_Sorted_Array.js)
+- [1323.6和9组成的最大数字（Maximum 69 Number）](/1323.Maximum_69_Number.js)
 - [1331.数组序号转换 (Rank Transform of an Array)](/1331.Rank_Transform_of_an_Array.js)
 - [1394.找出数组中的幸运数 (Find Lucky Integer in an Array)](/1394.Find_Lucky_Integer_in_an_Array.js)
 - [1431.拥有最多糖果的孩子 (Kids With the Greatest Number of Candies)](/1431.Kids_With_the_Greatest_Number_of_Candies.js)
