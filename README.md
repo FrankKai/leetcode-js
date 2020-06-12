@@ -59,6 +59,7 @@ Leetcode's answers by JavaScript.
 - [709.转换成小写字母（To Lower Case）](/709.To_Lower_Case.js)
 - [728.自除数 (Self Dividing Numbers)](/728.Self_Dividing_Numbers.js)
 - [819.最常见的单词（Most Common Word）](/819.Most_Common_Word.js)
+- [852.山脉数组的峰顶索引](/852.Peak_Index_in_a_Mountain_Array.js)
 - [905.按奇偶排序数组 (Sort Array By Parity)](/905.Sort_Array_By_Parity.js)
 - [941.有效的山脉数组 (Valid Mountain Array)](/941.Valid_Mountain_Array.js)
 - [977.有序数组的平方 (Squares of a Sorted Array)](/977.Squares_of_a_Sorted_Array.js)
