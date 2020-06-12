@@ -85,6 +85,7 @@ Leetcode's answers by JavaScript.
 - [228.汇总区间 (Summary Ranges)](/228.Summary_Ranges.js)
 - [384.打乱数组 (Shuffle an Array)](/384.Shuffle_an_Array.js)
 - [622.设计循环队列 (Queue Circular)](/622.Queue_Circular.js)
+- [707.设计链表（Design Linked List）](/707.Design_Linked_List.js)
 - [739.每日温度 (Daily Temperatures)](/739.Daily_Temperatures.js)
 - [912.排序数组 (Sort an Array)](/912.Sort_an_Array.js)
 - [986.区间列表的交集 (Interval List Intersections)](/986.Interval_List_Intersection.js)
