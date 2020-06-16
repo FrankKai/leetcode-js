@@ -1,6 +1,6 @@
 # leetcode-js
 
-Leecode经典题目JavaScript题解。
+Leecode 经典题目 JavaScript 题解。
 Leetcode's answers by JavaScript.
 
 ### easy
@@ -14,13 +14,13 @@ Leetcode's answers by JavaScript.
 - [21.合并两个有序链表 (Merge Two Sorted Lists)](/21.Merge_Two_Sorted_Lists.js)
 - [26.删除排序数组中的重复项 (Remove Duplicates from Sroted Array)](/26.Remove_Duplicates_from_Sroted_Array.js)
 - [27.移除元素 (Remove Element)](/27.Remove_Element.js)
-- [28.实现 strStr() (Implement strStr())](/28.Implement_strStr().js)
+- [28.实现 strStr() (Implement strStr())](</28.Implement_strStr().js>)
 - [35.搜索插入位置 (Search Insert Position)](/35.Search_Insert_Position.js)
 - [53.最大子序和 (Maximum Subarray)](/53.Maximum_Subarray.js)
 - [58.最后一个单词的长度 (Length of Last World)](/58.Length_of_Last_World.js)
 - [66.加一 (Plus One)](/66.Plus_One.js)
 - [67.二进制求和 (Add Binary)](/67.Add_Binary.js)
-- [69.x 的平方根 (Sqrt(x))](/69.Sqrt(x).js)
+- [69.x 的平方根 (Sqrt(x))](</69.Sqrt(x).js>)
 - [70.爬楼梯 (Climbing Stairs)](/70.Climbing_Stairs.js)
 - [88.合并两个有序数组 (Merge Sorted Array)](/88.Merge_Sorted_Array.js)
 - [100.相同的树 (Same Tree)](/100.Same_Tree.js)
@@ -32,7 +32,7 @@ Leetcode's answers by JavaScript.
 - [172.阶乘后的零 (Factorial Trailing Zeroes)](/172.Factorial_Trailing_Zeroes.js)
 - [189.旋转数组 (Rotate Array)](/189.Rotate_Array.js)
 - [190.颠倒二进制位 (Reverse Bits)](/190.Reverse_Bits.js)
-- [191.位1的个数 (Number of 1 Bits)](/191.Number_of_1_Bits.js)
+- [191.位 1 的个数 (Number of 1 Bits)](/191.Number_of_1_Bits.js)
 - [202.快乐数 (Happy Number)](/202.Happy_Number.js)
 - [217.存在重复元素 (Contains Duplicate)](/217.Contains_Duplicate.js)
 - [225.用队列实现栈 (Implement Stack using Queues)](/225.Implement_Stack_using_Queues.js)
@@ -48,7 +48,7 @@ Leetcode's answers by JavaScript.
 - [374.猜数字大小 (Guess Number Higher or Lower)](/374.Guess_Number_Higher_or_Lower.js)
 - [389.找不同 (Find the Difference)](/389.Find_the_Difference.js)
 - [448.找到所有数组中消失的数字 (Find All Numbers Disappeared in an Array)](/448.Find_All_Numbers_Disappeared_in_an_Array.js)
-- [485.最大连续1的个数 (Max Consecutive Ones)](/485.Max_Consecutive_Ones.js)
+- [485.最大连续 1 的个数 (Max Consecutive Ones)](/485.Max_Consecutive_Ones.js)
 - [500.键盘行 (Keyboard Row)](/500.Keyboard_Row.js)
 - [504.七进制数 (Base 7)](/504.Base_7.js)
 - [509.斐波那契数列 (Fibonacci Number)](/509.Fibonacci_Number.js)
@@ -67,8 +67,9 @@ Leetcode's answers by JavaScript.
 - [977.有序数组的平方 (Squares of a Sorted Array)](/977.Squares_of_a_Sorted_Array.js)
 - [989.数组形式的整数加法 (Add to Array-Form of Integer)](/989.Add_to_Array-Form_of_Integer.js)
 - [1089.复写零 (Duplicate Zeros)](/1089.Duplicate_Zeros.js)
-- [1287.有序数组中出现次数超过25%的元素 (Element Appearing More Than 25% In Sorted Array)](/1287.Element_Appearing_More_Than_25_In_Sorted_Array.js)
-- [1323.6和9组成的最大数字（Maximum 69 Number）](/1323.Maximum_69_Number.js)
+- [1287.有序数组中出现次数超过 25%的元素 (Element Appearing More Than 25% In Sorted Array)](/1287.Element_Appearing_More_Than_25_In_Sorted_Array.js)
+- [1290.二进制链表转整数（Convert Binary Number in a Linked List to Integer）](/1290.Convert_Binary_Number_in_a_Linked_List_to_Integer.js)
+- [1323.6 和 9 组成的最大数字（Maximum 69 Number）](/1323.Maximum_69_Number.js)
 - [1331.数组序号转换 (Rank Transform of an Array)](/1331.Rank_Transform_of_an_Array.js)
 - [1394.找出数组中的幸运数 (Find Lucky Integer in an Array)](/1394.Find_Lucky_Integer_in_an_Array.js)
 - [1431.拥有最多糖果的孩子 (Kids With the Greatest Number of Candies)](/1431.Kids_With_the_Greatest_Number_of_Candies.js)
@@ -82,7 +83,7 @@ Leetcode's answers by JavaScript.
 - [75.颜色分类 (Sort Colors)](/75.Sort_Colors.js)
 - [94.二叉树的中序遍历 (Binary Tree Inorder Traversal)](/94.Binary_Tree_Inorder_Traversal.js)
 - [144.二叉树的前序遍历 (Binary Tree Preorder Traversal)](/144.Binary_Tree_Preorder_Traversal.js)
-- [215.数组中的第K个最大元素 (Kth Largest Element in an Array)](/215.Kth_Largest_Element_in_an_Array.js)
+- [215.数组中的第 K 个最大元素 (Kth Largest Element in an Array)](/215.Kth_Largest_Element_in_an_Array.js)
 - [228.汇总区间 (Summary Ranges)](/228.Summary_Ranges.js)
 - [384.打乱数组 (Shuffle an Array)](/384.Shuffle_an_Array.js)
 - [622.设计循环队列 (Queue Circular)](/622.Queue_Circular.js)
