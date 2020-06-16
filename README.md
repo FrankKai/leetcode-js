@@ -48,6 +48,7 @@ Leetcode's answers by JavaScript.
 - [349.两个数组的交集 (Intersection of Two Arrays)](/349.Intersection_of_Two_Arrays.js)
 - [374.猜数字大小 (Guess Number Higher or Lower)](/374.Guess_Number_Higher_or_Lower.js)
 - [389.找不同 (Find the Difference)](/389.Find_the_Difference.js)
+- [412.Fizz Buzz](/412.Fizz_Buzz.js)
 - [448.找到所有数组中消失的数字 (Find All Numbers Disappeared in an Array)](/448.Find_All_Numbers_Disappeared_in_an_Array.js)
 - [485.最大连续 1 的个数 (Max Consecutive Ones)](/485.Max_Consecutive_Ones.js)
 - [500.键盘行 (Keyboard Row)](/500.Keyboard_Row.js)
