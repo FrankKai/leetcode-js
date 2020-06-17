@@ -12,6 +12,7 @@ var groupAnagrams = function (strs) {
   let obj = {};
   for (let str of strs) {
     const sortStr = str.split("").sort().join("");
+    // const sortStr = [...str].sort().join("");
     if (!obj[sortStr]) {
       obj[sortStr] = [str];
     } else {
