@@ -88,6 +88,7 @@ Leetcode's answers by JavaScript.
 - [144.二叉树的前序遍历 (Binary Tree Preorder Traversal)](/144.Binary_Tree_Preorder_Traversal.js)
 - [215.数组中的第 K 个最大元素 (Kth Largest Element in an Array)](/215.Kth_Largest_Element_in_an_Array.js)
 - [228.汇总区间 (Summary Ranges)](/228.Summary_Ranges.js)
+- [287.寻找重复数 (Find the Duplicate Number)](/287.Find_the_Duplicate_Number.js)
 - [347.前K个高频元素 (Top K Frequent Elements)](/347.Top_K_Frequent_Elements.js)
 - [384.打乱数组 (Shuffle an Array)](/384.Shuffle_an_Array.js)
 - [622.设计循环队列 (Queue Circular)](/622.Queue_Circular.js)
