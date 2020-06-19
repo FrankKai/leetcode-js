@@ -39,6 +39,7 @@ Leetcode's answers by JavaScript.
 - [225.用队列实现栈 (Implement Stack using Queues)](/225.Implement_Stack_using_Queues.js)
 - [232.用栈实现队列 (Implement Queue using Stacks)](/232.Implement_Queue_using_Stacks.js)
 - [237.删除链表中的节点 (Delete Node in a Linked List)](/237.Delete_Node_in_a_Linked_List.js)
+- [242.有效的字母异位词 (Valid Anagram)](/242.Valid_Anagram.js)
 - [258.各位相加 (Add Digits)](/258.Add_Digits.js)
 - [268.缺失数字 (Missing Number)](/268.Missing_Number.js)
 - [278.第一个错误的版本 (First Bad Version)](/278.First_Bad_Version.js)
