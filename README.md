@@ -76,6 +76,7 @@ Leetcode's answers by JavaScript.
 - [1394.找出数组中的幸运数 (Find Lucky Integer in an Array)](/1394.Find_Lucky_Integer_in_an_Array.js)
 - [1431.拥有最多糖果的孩子 (Kids With the Greatest Number of Candies)](/1431.Kids_With_the_Greatest_Number_of_Candies.js)
 - [1446.连续字符（Consecutive Characters）](/1446.Consecutive_Characters.js)
+- [1480.一堆数组的动态和 (Running Sum of 1d Array)](/1480.Running_Sum_of_1d_Array.js)
 
 ### medium
 
@@ -89,7 +90,7 @@ Leetcode's answers by JavaScript.
 - [215.数组中的第 K 个最大元素 (Kth Largest Element in an Array)](/215.Kth_Largest_Element_in_an_Array.js)
 - [228.汇总区间 (Summary Ranges)](/228.Summary_Ranges.js)
 - [287.寻找重复数 (Find the Duplicate Number)](/287.Find_the_Duplicate_Number.js)
-- [347.前K个高频元素 (Top K Frequent Elements)](/347.Top_K_Frequent_Elements.js)
+- [347.前 K 个高频元素 (Top K Frequent Elements)](/347.Top_K_Frequent_Elements.js)
 - [384.打乱数组 (Shuffle an Array)](/384.Shuffle_an_Array.js)
 - [622.设计循环队列 (Queue Circular)](/622.Queue_Circular.js)
 - [707.设计链表（Design Linked List）](/707.Design_Linked_List.js)
