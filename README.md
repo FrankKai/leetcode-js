@@ -48,6 +48,7 @@ Leetcode's answers by JavaScript.
 - [344.反转字符串 (Reverse String)](/344.Reverse_String.js)
 - [345.反转字符串中的元音字母 (Reverse Vowels of a String)](/345.Reverse_Vowels_of_a_String.js)
 - [349.两个数组的交集 (Intersection of Two Arrays)](/349.Intersection_of_Two_Arrays.js)
+- [350.两个数组的交集（Intersection of Two Arrays II）](/350.Intersection_of_Two_Arrays_II.js)
 - [374.猜数字大小 (Guess Number Higher or Lower)](/374.Guess_Number_Higher_or_Lower.js)
 - [389.找不同 (Find the Difference)](/389.Find_the_Difference.js)
 - [412.Fizz Buzz](/412.Fizz_Buzz.js)
