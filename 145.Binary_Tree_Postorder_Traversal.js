@@ -9,18 +9,18 @@
  * @param {TreeNode} root
  * @return {number[]}
  */
-var inorderTraversal = function (root) {
+var postorderTraversal = function (root) {
   /**
    * 解法1：递归解法
    */
   const result = [];
-  const inorderTraversalNode = (node) => {
+  const postorderTraversalNode = (node) => {
     if (node) {
-      inorderTraversalNode(node.left);
+      postorderTraversalNode(node.left);
+      postorderTraversalNode(node.right);
       result.push(node.val);
-      inorderTraversalNode(node.right);
     }
   };
-  inorderTraversalNode(root);
+  postorderTraversalNode(root);
   return result;
 };
