@@ -79,6 +79,7 @@ Leetcode's answers by JavaScript.
 - [1446.连续字符（Consecutive Characters）](/1446.Consecutive_Characters.js)
 - [1470.重新排列数组 (Shuffle the Array)](/1470.Shuffle_the_Array.js)
 - [1480.一堆数组的动态和 (Running Sum of 1d Array)](/1480.Running_Sum_of_1d_Array.js)
+- [1486.数组异或操作（XOR Operation in an Array）](/1486.XOR_Operation_in_an_Array.js)
 
 ### medium
 
