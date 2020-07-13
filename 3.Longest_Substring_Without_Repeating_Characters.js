@@ -21,10 +21,6 @@ var lengthOfLongestSubstring = function (s) {
   while (i < s.length || stack === []) {
     if (!stack.includes(s[i])) {
       stack.push(s[i]);
-      // "au"
-      if (stack.length > subStrMaxLength) {
-        subStrMaxLength = stack.length;
-      }
       i++;
     } else {
       // "aua"
@@ -35,6 +31,10 @@ var lengthOfLongestSubstring = function (s) {
       i = j;
       stack = [];
     }
+  }
+  // "au"
+  if (stack.length > subStrMaxLength) {
+    subStrMaxLength = stack.length;
   }
   return subStrMaxLength;
 };
