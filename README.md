@@ -6,6 +6,7 @@ Leetcode's answers by JavaScript.
 ### easy
 
 - [1.两数之和 (Two Sum)](/1.Two_Sum.js)
+- [3.无重复字符的最长子串（Longest Substring Without Repeating Characters）](/3.Longest_Substring_Without_Repeating_Characters.js)
 - [7.整数反转 (Reverse Integer)](/7.Reverse_Integer.js)
 - [9.回文数 (Palindrome Number)](/9.Palindrome_Number.js)
 - [13.罗马数字转整数 (Roman to Integer)](/13.Roman_to_Integer.js)
