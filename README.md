@@ -6,7 +6,6 @@ Leetcode's answers by JavaScript.
 ### easy
 
 - [1.两数之和 (Two Sum)](/1.Two_Sum.js)
-- [3.无重复字符的最长子串（Longest Substring Without Repeating Characters）](/3.Longest_Substring_Without_Repeating_Characters.js)
 - [7.整数反转 (Reverse Integer)](/7.Reverse_Integer.js)
 - [9.回文数 (Palindrome Number)](/9.Palindrome_Number.js)
 - [13.罗马数字转整数 (Roman to Integer)](/13.Roman_to_Integer.js)
@@ -86,7 +85,9 @@ Leetcode's answers by JavaScript.
 
 ### medium
 
+- [3.无重复字符的最长子串（Longest Substring Without Repeating Characters）](/3.Longest_Substring_Without_Repeating_Characters.js)
 - [11.盛水最多的容器（Container With Most Water）](/11.Container_With_Most_Water.js)
+- [17.电话号码的字母组合（Letter_Combinations_Of_A_Phone_Number）](/17.Letter_Combinations_Of_A_Phone_Number.js)
 - [33.搜索旋转排序数组 (Search in Rotated Sorted Array)](/33.Search_in_Rotated_Sorted_Array.js)
 - [49.字母异位词分组 (Group Anagrams)](/49.Group_Anagrams.js)
 - [56.合并区间 (Merge Intervals)](/56.Merge_Intervals.js)
