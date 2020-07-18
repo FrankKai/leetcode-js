@@ -83,6 +83,7 @@ Leetcode's answers by JavaScript.
 - [1470.重新排列数组 (Shuffle the Array)](/1470.Shuffle_the_Array.js)
 - [1480.一堆数组的动态和 (Running Sum of 1d Array)](/1480.Running_Sum_of_1d_Array.js)
 - [1486.数组异或操作（XOR Operation in an Array）](/1486.XOR_Operation_in_an_Array.js)
+- [1507.转变日期格式（Reformat Date）](/1507.Reformat_Date.js)
 - [1512.好数对的数目（Number of Good Pairs）](/1512.Number_of_Good_Pairs.js)
 
 ### medium
