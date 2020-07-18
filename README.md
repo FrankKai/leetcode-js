@@ -72,6 +72,7 @@ Leetcode's answers by JavaScript.
 - [977.有序数组的平方 (Squares of a Sorted Array)](/977.Squares_of_a_Sorted_Array.js)
 - [989.数组形式的整数加法 (Add to Array-Form of Integer)](/989.Add_to_Array-Form_of_Integer.js)
 - [1089.复写零 (Duplicate Zeros)](/1089.Duplicate_Zeros.js)
+- [1108.IP 地址无效化（Defanging an IP Address）](/1108.Defanging_an_IP_Address.js)
 - [1287.有序数组中出现次数超过 25%的元素 (Element Appearing More Than 25% In Sorted Array)](/1287.Element_Appearing_More_Than_25_In_Sorted_Array.js)
 - [1290.二进制链表转整数（Convert Binary Number in a Linked List to Integer）](/1290.Convert_Binary_Number_in_a_Linked_List_to_Integer.js)
 - [1323.6 和 9 组成的最大数字（Maximum 69 Number）](/1323.Maximum_69_Number.js)
