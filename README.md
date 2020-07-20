@@ -80,6 +80,7 @@ Leetcode's answers by JavaScript.
 - [1394.找出数组中的幸运数 (Find Lucky Integer in an Array)](/1394.Find_Lucky_Integer_in_an_Array.js)
 - [1431.拥有最多糖果的孩子 (Kids With the Greatest Number of Candies)](/1431.Kids_With_the_Greatest_Number_of_Candies.js)
 - [1446.连续字符（Consecutive Characters）](/1446.Consecutive_Characters.js)
+- [1450.在既定时间做作业的学生人数（Number of Students Doing Homework at a Given Time）](/1450.Number_of_Students_Doing_Homework_at_a_Given_Time.js)
 - [1455.检查单词是否为句中其他单词的前缀](/1455.Check_If_a_Word_Occurs_As_a_Prefix_of_Any_Word_in_a_Sentence.js)
 - [1464.数组中两元素的最大乘积（Maximum Product of Two Elements in an Array）](/1464.Maximum_Product_of_Two_Elements_in_an_Array.js)
 - [1470.重新排列数组 (Shuffle the Array)](/1470.Shuffle_the_Array.js)
