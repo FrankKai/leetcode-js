@@ -77,6 +77,7 @@ Leetcode's answers by JavaScript.
 - [1290.二进制链表转整数（Convert Binary Number in a Linked List to Integer）](/1290.Convert_Binary_Number_in_a_Linked_List_to_Integer.js)
 - [1323.6 和 9 组成的最大数字（Maximum 69 Number）](/1323.Maximum_69_Number.js)
 - [1331.数组序号转换 (Rank Transform of an Array)](/1331.Rank_Transform_of_an_Array.js)
+- [1385.两个数组间的距离值（Find the Distance Value Between Two Arrays）](/1385.Find_the_Distance_Value_Between_Two_Arrays.js)
 - [1389.按既定顺序创建目标数组（Create Target Array in the Given Order）](/1389.Create_Target_Array_in_the_Given_Order.js)
 - [1394.找出数组中的幸运数 (Find Lucky Integer in an Array)](/1394.Find_Lucky_Integer_in_an_Array.js)
 - [1431.拥有最多糖果的孩子 (Kids With the Greatest Number of Candies)](/1431.Kids_With_the_Greatest_Number_of_Candies.js)
