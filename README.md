@@ -74,6 +74,7 @@ Leetcode's answers by JavaScript.
 - [1046.最后一块石头的重量 (Last Stone Weight)](/1046.Last_Stone_Weight.js)
 - [1089.复写零 (Duplicate Zeros)](/1089.Duplicate_Zeros.js)
 - [1108.IP 地址无效化（Defanging an IP Address）](/1108.Defanging_an_IP_Address.js)
+- [1122.数组的相对排序（Relative Sort Array）](/1122.Relative_Sort_Array.js)
 - [1154.一年中的第几天 (Day of the Year)](/1154.Day_of_the_Year.js)
 - [1207.独一无二的出现次数 (Unique Number of Occurrences)](/1207.Unique_Number_of_Occurrences.js)
 - [1287.有序数组中出现次数超过 25%的元素 (Element Appearing More Than 25% In Sorted Array)](/1287.Element_Appearing_More_Than_25_In_Sorted_Array.js)
