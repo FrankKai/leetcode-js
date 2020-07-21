@@ -71,6 +71,7 @@ Leetcode's answers by JavaScript.
 - [941.有效的山脉数组 (Valid Mountain Array)](/941.Valid_Mountain_Array.js)
 - [977.有序数组的平方 (Squares of a Sorted Array)](/977.Squares_of_a_Sorted_Array.js)
 - [989.数组形式的整数加法 (Add to Array-Form of Integer)](/989.Add_to_Array-Form_of_Integer.js)
+- [1046.最后一块石头的重量 (Last Stone Weight)](/1046.Last_Stone_Weight.js)
 - [1089.复写零 (Duplicate Zeros)](/1089.Duplicate_Zeros.js)
 - [1108.IP 地址无效化（Defanging an IP Address）](/1108.Defanging_an_IP_Address.js)
 - [1207.独一无二的出现次数 (Unique Number of Occurrences)](/1207.Unique_Number_of_Occurrences.js)
