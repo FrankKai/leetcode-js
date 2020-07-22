@@ -69,6 +69,7 @@ Leetcode's answers by JavaScript.
 - [852.山脉数组的峰顶索引](/852.Peak_Index_in_a_Mountain_Array.js)
 - [905.按奇偶排序数组 (Sort Array By Parity)](/905.Sort_Array_By_Parity.js)
 - [941.有效的山脉数组 (Valid Mountain Array)](/941.Valid_Mountain_Array.js)
+- [961.重复 N 次的元素 (N-Repeated Element in Size 2N Array)](/961.N-Repeated_Element_in_Size_2N_Array.js)
 - [977.有序数组的平方 (Squares of a Sorted Array)](/977.Squares_of_a_Sorted_Array.js)
 - [989.数组形式的整数加法 (Add to Array-Form of Integer)](/989.Add_to_Array-Form_of_Integer.js)
 - [1046.最后一块石头的重量 (Last Stone Weight)](/1046.Last_Stone_Weight.js)
