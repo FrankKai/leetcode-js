@@ -79,6 +79,7 @@ Leetcode's answers by JavaScript.
 - [1170.比较字符串最小字母出现频次 (Compare Strings by Frequency of the Smallest Character)](/1170.Compare_Strings_by_Frequency_of_the_Smallest_Character.js)
 - [1185.一周中的第一天 (Day_of_the_Week)](/1185.Day_of_the_Week.js)
 - [1207.独一无二的出现次数 (Unique Number of Occurrences)](/1207.Unique_Number_of_Occurrences.js)
+- [1281.整数的各位积和之差 (Subtract the Product and Sum of Digits of an Integer)](/1281.Subtract_the_Product_and_Sum_of_Digits_of_an_Integer.js)
 - [1287.有序数组中出现次数超过 25%的元素 (Element Appearing More Than 25% In Sorted Array)](/1287.Element_Appearing_More_Than_25_In_Sorted_Array.js)
 - [1290.二进制链表转整数（Convert Binary Number in a Linked List to Integer）](/1290.Convert_Binary_Number_in_a_Linked_List_to_Integer.js)
 - [1295.统计位数为偶数的数字 (Find Numbers with Even Number of Digits)](/1295.Find_Numbers_with_Even_Number_of_Digits.js)
