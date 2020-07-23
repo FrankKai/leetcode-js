@@ -45,6 +45,7 @@ Leetcode's answers by JavaScript.
 - [268.缺失数字 (Missing Number)](/268.Missing_Number.js)
 - [278.第一个错误的版本 (First Bad Version)](/278.First_Bad_Version.js)
 - [283.移动零 (Move Zeroes)](/283.Move_Zeroes.js)
+- [303.区域和检索-数组不可变 (Range Sum Query - Immutable)](/303.Range_Sum_Query_Immutable.js)
 - [344.反转字符串 (Reverse String)](/344.Reverse_String.js)
 - [345.反转字符串中的元音字母 (Reverse Vowels of a String)](/345.Reverse_Vowels_of_a_String.js)
 - [349.两个数组的交集 (Intersection of Two Arrays)](/349.Intersection_of_Two_Arrays.js)
