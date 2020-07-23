@@ -57,6 +57,7 @@ Leetcode's answers by JavaScript.
 - [496.下一个更大元素 I (Next Greater Element I)](/496.Next_Greater_Element_I.js)
 - [500.键盘行 (Keyboard Row)](/500.Keyboard_Row.js)
 - [504.七进制数 (Base 7)](/504.Base_7.js)
+- [506.相对名次 (Relative Ranks)](/506.Relative_Ranks.js)
 - [509.斐波那契数列 (Fibonacci Number)](/509.Fibonacci_Number.js)
 - [520.检测大写字母 (Detect Capital)](/520.Detect_Capital.js)
 - [561.数组拆分 I (Array Partition I)](/561.Array_Partition_I.js)
