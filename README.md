@@ -108,6 +108,7 @@ Leetcode's answers by JavaScript.
 - [1455.检查单词是否为句中其他单词的前缀](/1455.Check_If_a_Word_Occurs_As_a_Prefix_of_Any_Word_in_a_Sentence.js)
 - [1464.数组中两元素的最大乘积（Maximum Product of Two Elements in an Array）](/1464.Maximum_Product_of_Two_Elements_in_an_Array.js)
 - [1470.重新排列数组 (Shuffle the Array)](/1470.Shuffle_the_Array.js)
+- [1475.商品折扣后的最终价格 (Final Prices With a Special Discount in a Shop)](/1475.Final_Prices_With_a_Special_Discount_in_a_Shop.js)
 - [1480.一堆数组的动态和 (Running Sum of 1d Array)](/1480.Running_Sum_of_1d_Array.js)
 - [1486.数组异或操作（XOR Operation in an Array）](/1486.XOR_Operation_in_an_Array.js)
 - [1491.去掉最低工资和最高工资后的平均工资值（Average Salary Excluding the Minimum and Maximum Salary）](/1491.Average_Salary_Excluding_the_Minimum_and_Maximum_Salary.js)
