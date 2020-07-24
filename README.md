@@ -112,6 +112,7 @@ Leetcode's answers by JavaScript.
 - [1480.一堆数组的动态和 (Running Sum of 1d Array)](/1480.Running_Sum_of_1d_Array.js)
 - [1486.数组异或操作（XOR Operation in an Array）](/1486.XOR_Operation_in_an_Array.js)
 - [1491.去掉最低工资和最高工资后的平均工资值（Average Salary Excluding the Minimum and Maximum Salary）](/1491.Average_Salary_Excluding_the_Minimum_and_Maximum_Salary.js)
+- [1502.判断能否形成等差数列 (Can Make Arithmetic Progression From Sequence)](/1502.Can_Make_Arithmetic_Progression_From_Sequence.js)
 - [1507.转变日期格式（Reformat Date）](/1507.Reformat_Date.js)
 - [1512.好数对的数目（Number of Good Pairs）](/1512.Number_of_Good_Pairs.js)
 
