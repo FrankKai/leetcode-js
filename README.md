@@ -106,6 +106,7 @@ Leetcode's answers by JavaScript.
 - [1446.连续字符（Consecutive Characters）](/1446.Consecutive_Characters.js)
 - [1450.在既定时间做作业的学生人数（Number of Students Doing Homework at a Given Time）](/1450.Number_of_Students_Doing_Homework_at_a_Given_Time.js)
 - [1455.检查单词是否为句中其他单词的前缀](/1455.Check_If_a_Word_Occurs_As_a_Prefix_of_Any_Word_in_a_Sentence.js)
+- [1460.通过翻转子数组使两个数组相等 (Make Two Arrays Equal by Reversing Sub-arrays)](/1460.Make_Two_Arrays_Equal_by_Reversing_Sub-arrays.js)
 - [1464.数组中两元素的最大乘积（Maximum Product of Two Elements in an Array）](/1464.Maximum_Product_of_Two_Elements_in_an_Array.js)
 - [1470.重新排列数组 (Shuffle the Array)](/1470.Shuffle_the_Array.js)
 - [1475.商品折扣后的最终价格 (Final Prices With a Special Discount in a Shop)](/1475.Final_Prices_With_a_Special_Discount_in_a_Shop.js)
