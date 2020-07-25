@@ -98,6 +98,7 @@ Leetcode's answers by JavaScript.
 - [1342.将数字变成 0 的操作次数（Number of Steps to Reduce a Number to Zero）](/1342.Number_of_Steps_to_Reduce_a_Number_to_Zero.js)
 - [1360.日期之间隔几天 (Number of Days Between Two Dates)](/1360.Number_of_Days_Between_Two_Dates.js)
 - [1365.有多少小于当前数字的数字 (How Many Numbers Are Smaller Than the Current Number)](/1365.How_Many_Numbers_Are_Smaller_Than_the_Current_Number.js)
+- [1380.矩阵中的幸运数 (Lucky Numbers in a Matrix)](/1380.Lucky_Numbers_in_a_Matrix.js)
 - [1385.两个数组间的距离值（Find the Distance Value Between Two Arrays）](/1385.Find_the_Distance_Value_Between_Two_Arrays.js)
 - [1389.按既定顺序创建目标数组（Create Target Array in the Given Order）](/1389.Create_Target_Array_in_the_Given_Order.js)
 - [1394.找出数组中的幸运数 (Find Lucky Integer in an Array)](/1394.Find_Lucky_Integer_in_an_Array.js)
