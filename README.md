@@ -68,6 +68,7 @@ Leetcode's answers by JavaScript.
 - [645.错误的集合 (Set Mismatch)](/645.Set_Mismatch.js)
 - [704.二分查找 (Binary Search)](/704.Binary_Search.js)
 - [705.设计哈希集合 (Design HashSet)](/705.Design_HashSet.js)
+- [706.设计哈希映射 (Design HashMap)](/706.Design_HashMap.js)
 - [709.转换成小写字母（To Lower Case）](/709.To_Lower_Case.js)
 - [728.自除数 (Self Dividing Numbers)](/728.Self_Dividing_Numbers.js)
 - [771.宝石与石头 (Jewels and Stones)](/771.Jewels_and_Stones.js)
