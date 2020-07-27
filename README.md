@@ -55,6 +55,7 @@ Leetcode's answers by JavaScript.
 - [412.Fizz Buzz](/412.Fizz_Buzz.js)
 - [414.第三大的数（Third Maximum Number）](/414.Third_Maximum_Number.js)
 - [448.找到所有数组中消失的数字 (Find All Numbers Disappeared in an Array)](/448.Find_All_Numbers_Disappeared_in_an_Array.js)
+- [461.汉明距离 (Hamming Distance)](/461.Hamming_Distance.js)
 - [485.最大连续 1 的个数 (Max Consecutive Ones)](/485.Max_Consecutive_Ones.js)
 - [496.下一个更大元素 I (Next Greater Element I)](/496.Next_Greater_Element_I.js)
 - [500.键盘行 (Keyboard Row)](/500.Keyboard_Row.js)
