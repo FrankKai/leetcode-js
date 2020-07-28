@@ -104,6 +104,7 @@ Leetcode's answers by JavaScript.
 - [1342.将数字变成 0 的操作次数（Number of Steps to Reduce a Number to Zero）](/1342.Number_of_Steps_to_Reduce_a_Number_to_Zero.js)
 - [1346.检查整数及其两倍数是否存在 (Check If N and Its Double Exist)](/1346.Check_If_N_and_Its_Double_Exist.js)
 - [1351.统计有序矩阵中的负数 (Count Negative Numbers in a Sorted Matrix)](/1351.Count_Negative_Numbers_in_a_Sorted_Matrix.js)
+- [1356.根据数字二进制下 1 的数目排序 (Sort Integers by The Number of 1 Bits)](/1356.Sort_Integers_by_The_Number_of_1_Bits.js)
 - [1360.日期之间隔几天 (Number of Days Between Two Dates)](/1360.Number_of_Days_Between_Two_Dates.js)
 - [1365.有多少小于当前数字的数字 (How Many Numbers Are Smaller Than the Current Number)](/1365.How_Many_Numbers_Are_Smaller_Than_the_Current_Number.js)
 - [1380.矩阵中的幸运数 (Lucky Numbers in a Matrix)](/1380.Lucky_Numbers_in_a_Matrix.js)
