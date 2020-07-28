@@ -91,6 +91,7 @@ Leetcode's answers by JavaScript.
 - [1108.IP 地址无效化（Defanging an IP Address）](/1108.Defanging_an_IP_Address.js)
 - [1122.数组的相对排序（Relative Sort Array）](/1122.Relative_Sort_Array.js)
 - [1154.一年中的第几天 (Day of the Year)](/1154.Day_of_the_Year.js)
+- [1160.拼写单词 (Find Words That Can Be Formed by Characters)](/1160.Find_Words_That_Can_Be_Formed_by_Characters.js)
 - [1170.比较字符串最小字母出现频次 (Compare Strings by Frequency of the Smallest Character)](/1170.Compare_Strings_by_Frequency_of_the_Smallest_Character.js)
 - [1185.一周中的第一天 (Day_of_the_Week)](/1185.Day_of_the_Week.js)
 - [1200.最小绝对差 (Minimum Absolute Difference)](/1200.Minimum_Absolute_Difference.js)
