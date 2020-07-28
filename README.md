@@ -86,6 +86,7 @@ Leetcode's answers by JavaScript.
 - [989.数组形式的整数加法 (Add to Array-Form of Integer)](/989.Add_to_Array-Form_of_Integer.js)
 - [1046.最后一块石头的重量 (Last Stone Weight)](/1046.Last_Stone_Weight.js)
 - [1047.删除字符串中的所有相邻重复项 (Remove All Adjacent Duplicates In String)](/1047.Remove_All_Adjacent_Duplicates_In_String.js)
+- [1078.Bigram 分词 (Occurrences After Bigram)](/1078.Occurrences_After_Bigram.js)
 - [1089.复写零 (Duplicate Zeros)](/1089.Duplicate_Zeros.js)
 - [1108.IP 地址无效化（Defanging an IP Address）](/1108.Defanging_an_IP_Address.js)
 - [1122.数组的相对排序（Relative Sort Array）](/1122.Relative_Sort_Array.js)
