@@ -35,6 +35,7 @@ Leetcode's answers by JavaScript.
 - [190.颠倒二进制位 (Reverse Bits)](/190.Reverse_Bits.js)
 - [191.位 1 的个数 (Number of 1 Bits)](/191.Number_of_1_Bits.js)
 - [202.快乐数 (Happy Number)](/202.Happy_Number.js)
+- [205.同构字符串 (Isomorphic Strings)](/205.Isomorphic_Strings.js)
 - [206.反转链表 (Reverse Linked List)](/206.Reverse_Linked_List.js)
 - [217.存在重复元素 (Contains Duplicate)](/217.Contains_Duplicate.js)
 - [225.用队列实现栈 (Implement Stack using Queues)](/225.Implement_Stack_using_Queues.js)
