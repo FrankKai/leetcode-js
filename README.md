@@ -78,6 +78,7 @@ Leetcode's answers by JavaScript.
 - [804.唯一摩尔斯密码词（Unique Morse Code Words）](/804.Unique_Morse_Code_Words.js)
 - [819.最常见的单词（Most Common Word）](/819.Most_Common_Word.js)
 - [852.山脉数组的峰顶索引](/852.Peak_Index_in_a_Mountain_Array.js)
+- [868.二进制间距 (Binary Gap)](/868.Binary_Gap.js)
 - [905.按奇偶排序数组 (Sort Array By Parity)](/905.Sort_Array_By_Parity.js)
 - [922.按奇偶排序数组 II (Sort Array By Parity II)](/922.Sort_Array_By_Parity_II.js)
 - [941.有效的山脉数组 (Valid Mountain Array)](/941.Valid_Mountain_Array.js)
