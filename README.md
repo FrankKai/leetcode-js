@@ -78,6 +78,7 @@ Leetcode's answers by JavaScript.
 - [706.设计哈希映射 (Design HashMap)](/706.Design_HashMap.js)
 - [709.转换成小写字母（To Lower Case）](/709.To_Lower_Case.js)
 - [728.自除数 (Self Dividing Numbers)](/728.Self_Dividing_Numbers.js)
+- [744.寻找比目标字母大的最小字母 (Find Smallest Letter Greater Than Target)](/744.Find_Smallest_Letter_Greater_Than_Target.js)
 - [771.宝石与石头 (Jewels and Stones)](/771.Jewels_and_Stones.js)
 - [804.唯一摩尔斯密码词（Unique Morse Code Words）](/804.Unique_Morse_Code_Words.js)
 - [819.最常见的单词（Most Common Word）](/819.Most_Common_Word.js)
