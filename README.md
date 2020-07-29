@@ -53,6 +53,7 @@ Leetcode's answers by JavaScript.
 - [350.两个数组的交集（Intersection of Two Arrays II）](/350.Intersection_of_Two_Arrays_II.js)
 - [374.猜数字大小 (Guess Number Higher or Lower)](/374.Guess_Number_Higher_or_Lower.js)
 - [383.赎金信 (Ransom Note)](/383.Ransom_Note.js)
+- [387.字符串中的第一个唯一字符 (First Unique Character in a String)](/387.First_Unique_Character_in_a_String.js)
 - [389.找不同 (Find the Difference)](/389.Find_the_Difference.js)
 - [412.Fizz Buzz](/412.Fizz_Buzz.js)
 - [414.第三大的数（Third Maximum Number）](/414.Third_Maximum_Number.js)
