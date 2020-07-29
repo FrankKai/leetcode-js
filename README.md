@@ -68,6 +68,7 @@ Leetcode's answers by JavaScript.
 - [509.斐波那契数列 (Fibonacci Number)](/509.Fibonacci_Number.js)
 - [520.检测大写字母 (Detect Capital)](/520.Detect_Capital.js)
 - [541.反转字符串 II (Reverse String II)](/541.Reverse_String_II.js)
+- [551.学生出勤记录 I (Student Attendance Record I)](/551.Student_Attendance_Record_I.js)
 - [557.反转字符串中的单词 III (Reverse Words in a String III)](/557.Reverse_Words_in_a_String_III.js)
 - [561.数组拆分 I (Array Partition I)](/561.Array_Partition_I.js)
 - [581.最短无序连续子数组 (Shortest Unsorted Continuous Subarray)](/581.Shortest_Unsorted_Continuous_Subarray.js)
