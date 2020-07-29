@@ -73,6 +73,7 @@ Leetcode's answers by JavaScript.
 - [581.最短无序连续子数组 (Shortest Unsorted Continuous Subarray)](/581.Shortest_Unsorted_Continuous_Subarray.js)
 - [599.两个列表的最小索引总和 (Minimum Index Sum of Two Lists)](/599.Minimum_Index_Sum_of_Two_Lists.js)
 - [645.错误的集合 (Set Mismatch)](/645.Set_Mismatch.js)
+- [693.交替位二进制数 (Binary Number with Alternating Bits)](/693.Binary_Number_with_Alternating_Bits.js)
 - [704.二分查找 (Binary Search)](/704.Binary_Search.js)
 - [705.设计哈希集合 (Design HashSet)](/705.Design_HashSet.js)
 - [706.设计哈希映射 (Design HashMap)](/706.Design_HashMap.js)
