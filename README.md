@@ -95,6 +95,7 @@ Leetcode's answers by JavaScript.
 - [961.重复 N 次的元素 (N-Repeated Element in Size 2N Array)](/961.N-Repeated_Element_in_Size_2N_Array.js)
 - [977.有序数组的平方 (Squares of a Sorted Array)](/977.Squares_of_a_Sorted_Array.js)
 - [989.数组形式的整数加法 (Add to Array-Form of Integer)](/989.Add_to_Array-Form_of_Integer.js)
+- [1009.十进制整数的反码 (Complement of Base 10 Integer)](/1009.Complement_of_Base_10_Integer.js)
 - [1046.最后一块石头的重量 (Last Stone Weight)](/1046.Last_Stone_Weight.js)
 - [1047.删除字符串中的所有相邻重复项 (Remove All Adjacent Duplicates In String)](/1047.Remove_All_Adjacent_Duplicates_In_String.js)
 - [1078.Bigram 分词 (Occurrences After Bigram)](/1078.Occurrences_After_Bigram.js)
