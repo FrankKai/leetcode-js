@@ -105,6 +105,7 @@ Leetcode's answers by JavaScript.
 - [1160.拼写单词 (Find Words That Can Be Formed by Characters)](/1160.Find_Words_That_Can_Be_Formed_by_Characters.js)
 - [1170.比较字符串最小字母出现频次 (Compare Strings by Frequency of the Smallest Character)](/1170.Compare_Strings_by_Frequency_of_the_Smallest_Character.js)
 - [1185.一周中的第一天 (Day_of_the_Week)](/1185.Day_of_the_Week.js)
+- [1189."气球"的最大数量 (Maximum Number of Balloons)](/1189.Maximum_Number_of_Balloons.js)
 - [1200.最小绝对差 (Minimum Absolute Difference)](/1200.Minimum_Absolute_Difference.js)
 - [1207.独一无二的出现次数 (Unique Number of Occurrences)](/1207.Unique_Number_of_Occurrences.js)
 - [1221.分割平衡字符串 (Split a String in Balanced Strings)](/1221.Split_a_String_in_Balanced_Strings.js)
