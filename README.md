@@ -148,6 +148,7 @@ Leetcode's answers by JavaScript.
 - [1502.判断能否形成等差数列 (Can Make Arithmetic Progression From Sequence)](/1502.Can_Make_Arithmetic_Progression_From_Sequence.js)
 - [1507.转变日期格式（Reformat Date）](/1507.Reformat_Date.js)
 - [1512.好数对的数目（Number of Good Pairs）](/1512.Number_of_Good_Pairs.js)
+- [1528.重新排列字符串 (Shuffle String)](/1528.Shuffle_String.js)
 - [5456.在区间范围内统计奇数数目 (Count Odd Numbers in an Interval Range)](/5456.Count_Odd_Numbers_in_an_Interval_Range.js)
 
 ### medium
