@@ -178,6 +178,7 @@ Leetcode's answers by JavaScript.
 - [739.每日温度 (Daily Temperatures)](/739.Daily_Temperatures.js)
 - [912.排序数组 (Sort an Array)](/912.Sort_an_Array.js)
 - [986.区间列表的交集 (Interval List Intersections)](/986.Interval_List_Intersection.js)
+- [5476.找出数组游戏的赢家 (Find the Winner of an Array Game)](/5476.Find_the_Winner_of_an_Array_Game.js)
 
 ### difficult
 
