@@ -152,6 +152,7 @@ Leetcode's answers by JavaScript.
 - [1512.好数对的数目（Number of Good Pairs）](/1512.Number_of_Good_Pairs.js)
 - [1528.重新排列字符串 (Shuffle String)](/1528.Shuffle_String.js)
 - [5456.在区间范围内统计奇数数目 (Count Odd Numbers in an Interval Range)](/5456.Count_Odd_Numbers_in_an_Interval_Range.js)
+- [5475.统计好三元组 (Count Good Triplets)](/5475.Count_Good_Triplets.js)
 
 ### medium
 
