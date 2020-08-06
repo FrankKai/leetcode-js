@@ -3,12 +3,12 @@
  * @param {number} target
  * @return {number[]}
  */
-var twoSum = function(nums, target) {
+var twoSum = function (nums, target) {
   /**
    * 解法1：暴力迭代 580ms
    */
   var numsMaster = nums;
-  var numsSlave = nums.map(e => e);
+  var numsSlave = nums.map((e) => e);
   var idxArr = [];
   numsMaster.forEach((nm, idxm, arrm) => {
     numsSlave.forEach((ns, idxs, arrs) => {
@@ -39,4 +39,23 @@ var twoSum = function(nums, target) {
     }
     j++;
   }
+  /**
+   * 解法3：快慢指针 180ms
+   */
+  let i = 0;
+  let j = 1;
+  let num = 0;
+  while (j <= nums.length - 1) {
+    num = nums[i] + nums[j];
+    if (num === target) {
+      break;
+    }
+    if (j === nums.length - 1) {
+      i++;
+      j = i + 1;
+      continue;
+    }
+    j++;
+  }
+  return [i, j];
 };
