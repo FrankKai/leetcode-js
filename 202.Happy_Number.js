@@ -38,7 +38,7 @@
  * @param {number} n
  * @return {boolean}
  */
-var isHappy = function(n) {
+var isHappy = function (n) {
   if (n == 1) return true;
   var nextNums = arguments[1] || [];
   var nextNumsSet = new Set(nextNums);
@@ -68,4 +68,59 @@ var isHappy = function(n) {
     return nextNum;
   }
   return nextNum === 1;
+};
+
+/**
+ * 解法3：出栈
+ */
+/**
+ * @param {number} n
+ * @return {boolean}
+ */
+var isHappy = function (n) {
+  if (n === 1) return true;
+  let arr = `${n}`.split("");
+  let num = 0;
+  let isHappyNumber = true;
+  const set = new Set();
+  while (arr.length) {
+    const pop = parseInt(arr.pop());
+    num += pop * pop;
+    if (arr.length === 0 && num !== 1) {
+      if (set.has(num)) {
+        isHappyNumber = false;
+        break;
+      }
+      set.add(num);
+      arr = `${num}`.split("");
+      num = 0;
+    }
+  }
+  return isHappyNumber;
+};
+
+/**
+ * 解法4：hashset
+ */
+/**
+ * @param {number} n
+ * @return {boolean}
+ */
+var isHappy = function (n) {
+  if (n === 1) return true;
+  let isHappyNumber = false;
+  const set = new Set();
+  while (!set.has(n)) {
+    set.add(n);
+    let num = 0;
+    for (const i of `${n}`) {
+      num += i * i;
+    }
+    if (num === 1) {
+      isHappyNumber = true;
+      break;
+    }
+    n = num;
+  }
+  return isHappyNumber;
 };
