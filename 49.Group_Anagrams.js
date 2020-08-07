@@ -21,4 +21,22 @@ var groupAnagrams = function (strs) {
   }
   const result = Object.values(obj);
   return result;
+  /**
+   * 解法2：HashMap
+   */
+  const map = new Map();
+  for (const str of strs) {
+    const key = str.split("").sort().join("");
+    if (map.has(key)) {
+      const getStr = [...map.get(key), str];
+      map.set(key, getStr);
+    } else {
+      map.set(key, [str]);
+    }
+  }
+  const result = [];
+  for (const item of map.values()) {
+    result.push(item);
+  }
+  return result;
 };
