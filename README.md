@@ -163,6 +163,7 @@ Leetcode's answers by JavaScript.
 - [17.电话号码的字母组合（Letter_Combinations_Of_A_Phone_Number）](/17.Letter_Combinations_Of_A_Phone_Number.js)
 - [33.搜索旋转排序数组 (Search in Rotated Sorted Array)](/33.Search_in_Rotated_Sorted_Array.js)
 - [34.在排序数组中查找元素的第一个和最后一个位置（Find First and Last Position of Element in Sorted Array）](/34.Find_First_and_Last_Position_of_Element_in_Sorted_Array.js)
+- [36.有效的数独 (Valid Sudoku)](/36.Valid_Sudoku.js)
 - [49.字母异位词分组 (Group Anagrams)](/49.Group_Anagrams.js)
 - [56.合并区间 (Merge Intervals)](/56.Merge_Intervals.js)
 - [75.颜色分类 (Sort Colors)](/75.Sort_Colors.js)
