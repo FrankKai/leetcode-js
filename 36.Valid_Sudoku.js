@@ -8,7 +8,7 @@
  */
 var isValidSudoku = function (board) {
   /**
-   * 解法：HashMap
+   * 解法1：HashMap （3*3检测小学生版）
    */
   const columnMap = new Map();
   const subMap = new Map();
@@ -20,7 +20,6 @@ var isValidSudoku = function (board) {
         continue;
       }
       if (rowMap.has(board[i][j])) {
-        console.log(123);
         return false;
       } else {
         rowMap.set(board[i][j], true);
@@ -28,7 +27,6 @@ var isValidSudoku = function (board) {
       // 数字 1-9 在每一列只能出现一次。
       if (columnMap.has(j)) {
         if (columnMap.get(j).indexOf(board[i][j]) !== -1) {
-          console.log(456);
           return false;
         } else {
           const arr = columnMap.get(j);
@@ -91,4 +89,50 @@ var isValidSudoku = function (board) {
     }
     return true;
   }
+  /**
+   * 解法2: HashMap （3*3检测优化版）
+   */
+  const columnMap = new Map();
+  const subMap = new Map();
+  for (let i = 0; i < board.length; i++) {
+    const rowMap = new Map();
+    for (let j = 0; j < board[i].length; j++) {
+      // 数字 1-9 在每一行只能出现一次。
+      if (board[i][j] === ".") {
+        continue;
+      }
+      if (rowMap.has(board[i][j])) {
+        return false;
+      } else {
+        rowMap.set(board[i][j], true);
+      }
+      // 数字 1-9 在每一列只能出现一次。
+      if (columnMap.has(j)) {
+        if (columnMap.get(j).indexOf(board[i][j]) !== -1) {
+          return false;
+        } else {
+          const arr = columnMap.get(j);
+          arr.push(board[i][j]);
+          columnMap.set(j, arr);
+        }
+      } else {
+        columnMap.set(j, [board[i][j]]);
+      }
+      // 数字 1-9 在每一个以粗实线分隔的 3x3 宫内只能出现一次。
+      // 0,1,2 0,3,6=> 0~8
+      const boxIndex = Math.floor(j / 3) + Math.floor(i / 3) * 3;
+      if (subMap.has(boxIndex)) {
+        if (subMap.get(boxIndex).indexOf(board[i][j]) !== -1) {
+          return false;
+        } else {
+          const arr = subMap.get(boxIndex);
+          arr.push(board[i][j]);
+          subMap.set(boxIndex, arr);
+        }
+      } else {
+        subMap.set(boxIndex, [board[i][j]]);
+      }
+    }
+  }
+  return true;
 };
