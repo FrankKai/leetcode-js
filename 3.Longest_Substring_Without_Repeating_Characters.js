@@ -4,7 +4,7 @@
  */
 var lengthOfLongestSubstring = function (s) {
   /**
-   * 解法：栈
+   * 解法1：栈
    * 思路：
    * 1.定义一个最大长度
    * 2.无重复项时依次入栈，记录最大长度为栈的长度
@@ -37,4 +37,32 @@ var lengthOfLongestSubstring = function (s) {
     subStrMaxLength = stack.length;
   }
   return subStrMaxLength;
+  /**
+   * 解法2: HashMap
+   * 特殊用例：
+   * ""," ","au"
+   */
+  if (!s) return 0;
+  let map = new Map();
+  let maxLength = 1;
+  let i = 0;
+  let j = 0;
+  while (j < s.length) {
+    const char = s[j];
+    if (map.has(char)) {
+      if (map.size > maxLength) {
+        maxLength = map.size;
+      }
+      map = new Map();
+      i++;
+      j = i;
+    } else {
+      map.set(char, char);
+      j++;
+    }
+  }
+  if (map.size > maxLength) {
+    maxLength = map.size;
+  }
+  return maxLength;
 };
