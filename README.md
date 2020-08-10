@@ -176,6 +176,7 @@ Leetcode's answers by JavaScript.
 - [228.汇总区间 (Summary Ranges)](/228.Summary_Ranges.js)
 - [287.寻找重复数 (Find the Duplicate Number)](/287.Find_the_Duplicate_Number.js)
 - [347.前 K 个高频元素 (Top K Frequent Elements)](/347.Top_K_Frequent_Elements.js)
+- [380.常数时间插入、删除和获取随机元素 (Insert Delete GetRandom O(1))](/380.Insert_Delete_GetRandom_O(1).js)
 - [384.打乱数组 (Shuffle an Array)](/384.Shuffle_an_Array.js)
 - [442.数组中重复的数据（Find All Duplicates in an Array）](/442.Find_All_Duplicates_in_an_Array.js)
 - [622.设计循环队列 (Queue Circular)](/622.Queue_Circular.js)
