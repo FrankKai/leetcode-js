@@ -20,4 +20,19 @@ var topKFrequent = function (nums, k) {
   const descKeys = Object.keys(obj).sort((a, b) => obj[b] - obj[a]);
   const result = descKeys.splice(0, k);
   return result;
+  /**
+   * 解法2: HashMap
+   */
+  const map = new Map();
+  for (const num of nums) {
+    map.set(num, map.has(num) ? map.get(num) + 1 : 1);
+  }
+  const topK = [...map.values()].sort((x, y) => y - x).splice(0, k);
+  const result = [];
+  for (const [key, value] of map) {
+    if (topK.includes(value)) {
+      result.push(key);
+    }
+  }
+  return result;
 };
