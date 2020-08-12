@@ -48,6 +48,7 @@ Leetcode's answers by JavaScript.
 - [237.删除链表中的节点 (Delete Node in a Linked List)](/237.Delete_Node_in_a_Linked_List.js)
 - [242.有效的字母异位词 (Valid Anagram)](/242.Valid_Anagram.js)
 - [258.各位相加 (Add Digits)](/258.Add_Digits.js)
+- [263.丑数 (Ugly Number)](/263.Ugly_Number.js)
 - [268.缺失数字 (Missing Number)](/268.Missing_Number.js)
 - [278.第一个错误的版本 (First Bad Version)](/278.First_Bad_Version.js)
 - [283.移动零 (Move Zeroes)](/283.Move_Zeroes.js)
