@@ -39,6 +39,7 @@ Leetcode's answers by JavaScript.
 - [189.旋转数组 (Rotate Array)](/189.Rotate_Array.js)
 - [190.颠倒二进制位 (Reverse Bits)](/190.Reverse_Bits.js)
 - [191.位 1 的个数 (Number of 1 Bits)](/191.Number_of_1_Bits.js)
+- [195.第十行 (Tenth Line)](/195.Tenth_Line.bash)
 - [202.快乐数 (Happy Number)](/202.Happy_Number.js)
 - [205.同构字符串 (Isomorphic Strings)](/205.Isomorphic_Strings.js)
 - [206.反转链表 (Reverse Linked List)](/206.Reverse_Linked_List.js)
