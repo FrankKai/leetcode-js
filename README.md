@@ -36,6 +36,7 @@ Leetcode's answers by JavaScript.
 - [169.多数元素 (Majority Element)](/169.Majority_Element.js)
 - [171.Excel表列序号 (Excel Sheet Column Number)](/171.Excel_Sheet_Column_Number.js)
 - [172.阶乘后的零 (Factorial Trailing Zeroes)](/172.Factorial_Trailing_Zeroes.js)
+- [183.从不订购的客户 (Customers Who Never Order)](/183.Customers_Who_Never_Order.sql)
 - [189.旋转数组 (Rotate Array)](/189.Rotate_Array.js)
 - [190.颠倒二进制位 (Reverse Bits)](/190.Reverse_Bits.js)
 - [191.位 1 的个数 (Number of 1 Bits)](/191.Number_of_1_Bits.js)
