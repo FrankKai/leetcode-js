@@ -164,6 +164,7 @@ Leetcode's answers by JavaScript.
 - [1507.转变日期格式（Reformat Date）](/1507.Reformat_Date.js)
 - [1512.好数对的数目（Number of Good Pairs）](/1512.Number_of_Good_Pairs.js)
 - [1528.重新排列字符串 (Shuffle String)](/1528.Shuffle_String.js)
+- [1539.第k个缺失的正整数 (Kth Missing Positive Number)](/1539.Kth_Missing_Positive_Number.js)
 - [1550.存在连续三个奇数的数组 (Three Consecutive Odds)](/1550.Three_Consecutive_Odds.js)
 - [5456.在区间范围内统计奇数数目 (Count Odd Numbers in an Interval Range)](/5456.Count_Odd_Numbers_in_an_Interval_Range.js)
 - [5475.统计好三元组 (Count Good Triplets)](/5475.Count_Good_Triplets.js)
