@@ -199,6 +199,7 @@ Leetcode's answers by JavaScript.
 - [912.排序数组 (Sort an Array)](/912.Sort_an_Array.js)
 - [986.区间列表的交集 (Interval List Intersections)](/986.Interval_List_Intersection.js)
 - [1551.使数组中所有元素相等的最小操作数 (Minimum Operations to Make Array Equal)](/1551.Minimum_Operations_to_Make_Array_Equal.js)
+- [1556.千位分隔数(Thousand Separator)](/1556.Thousand_Separator.js)
 - [5476.找出数组游戏的赢家 (Find the Winner of an Array Game)](/5476.Find_the_Winner_of_an_Array_Game.js)
 
 ### difficult
