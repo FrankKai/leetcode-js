@@ -201,6 +201,7 @@ Leetcode's answers by JavaScript.
 - [1313.解压缩编码列表 (Decompress Run-Length Encoded List)](/1313.Decompress_Run-Length_Encoded_List.js)
 - [1551.使数组中所有元素相等的最小操作数 (Minimum Operations to Make Array Equal)](/1551.Minimum_Operations_to_Make_Array_Equal.js)
 - [1556.千位分隔数(Thousand Separator)](/1556.Thousand_Separator.js)
+- [1560.圆形赛道上经过次数最多的扇区(Most Visited Sector in a Circular Track)](/1560.Most_Visited_Sector_in_a_Circular_Track.js)
 - [5476.找出数组游戏的赢家 (Find the Winner of an Array Game)](/5476.Find_the_Winner_of_an_Array_Game.js)
 
 ### difficult
