@@ -58,3 +58,55 @@ var mostVisited = function (n, rounds) {
     return result;
   }
 };
+
+// TypeScript版本
+// function mostVisited(n: number, rounds: number[]): number[] {
+//   let sectors: number[] = [];
+//   let i = 1;
+//   while (i < rounds.length) {
+//       const start = rounds[i - 1];
+//       const end = rounds[i];
+//       if (start < end) {
+//           sectors.pop();
+//           sectors = collectSector(start, end, sectors);
+//       }
+//       if (start <= n && start > end) {
+//           sectors.pop();
+//           // 山脉升
+//           sectors = collectSector(start, n, sectors);
+//           // 山脉降
+//           sectors = collectSector(1, end, sectors);
+//       }
+//       i++;
+//   }
+//   return countSector(sectors);
+//   // 收集到扇区数组中
+//   function collectSector(start: number, end: number, collector: number[]) {
+//       let i = start;
+//       while (i <= end) {
+//           collector.push(i);
+//           i++;
+//       }
+//       return collector;
+//   }
+//   // 统计次数
+//   function countSector(sectors: number[]) {
+//       const map = new Map();
+//       let result: number[] = [];
+//       for (const sector of sectors) {
+//           map.set(sector, map.has(sector) ? map.get(sector) + 1 : 1);
+//       }
+//       let max = Infinity;
+//       for (const [num, count] of map) {
+//           if (max === Infinity || count >= max) {
+//               if (count > max) {
+//                   result = [];
+//               }
+//               max = count;
+//               result.push(num);
+//           }
+//       }
+//       result.sort((x, y) => x - y);
+//       return result;
+//   }
+// };
