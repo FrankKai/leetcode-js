@@ -175,6 +175,7 @@ Leetcode's answers by JavaScript.
 
 ### medium
 
+- [2.两数相加 (Add Two Numbers)](/2.Add_Two_Numbers.js)
 - [3.无重复字符的最长子串（Longest Substring Without Repeating Characters）](/3.Longest_Substring_Without_Repeating_Characters.js)
 - [11.盛水最多的容器（Container With Most Water）](/11.Container_With_Most_Water.js)
 - [15.三数之和 (3Sum)](/15.3Sum.js)
