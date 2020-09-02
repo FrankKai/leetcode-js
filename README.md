@@ -131,6 +131,7 @@ Leetcode's answers by JavaScript.
 - [1290.二进制链表转整数（Convert Binary Number in a Linked List to Integer）](/1290.Convert_Binary_Number_in_a_Linked_List_to_Integer.js)
 - [1295.统计位数为偶数的数字 (Find Numbers with Even Number of Digits)](/1295.Find_Numbers_with_Even_Number_of_Digits.js)
 - [1299.将每个元素替换为右侧最大元素 (Replace Elements with Greatest Element on Right Side)](/1299.Replace_Elements_with_Greatest_Element_on_Right_Side.js)
+- [1313.解压缩编码列表 (Decompress Run-Length Encoded List)](/1313.Decompress_Run-Length_Encoded_List.js)
 - [1317.将整数转换为两个无零整数的和 (Convert Integer to the Sum of Two No-Zero Integers)](/1317.Convert_Integer_to_the_Sum_of_Two_No-Zero_Integers.js)
 - [1323.6 和 9 组成的最大数字（Maximum 69 Number）](/1323.Maximum_69_Number.js)
 - [1331.数组序号转换 (Rank Transform of an Array)](/1331.Rank_Transform_of_an_Array.js)
@@ -165,7 +166,10 @@ Leetcode's answers by JavaScript.
 - [1512.好数对的数目（Number of Good Pairs）](/1512.Number_of_Good_Pairs.js)
 - [1528.重新排列字符串 (Shuffle String)](/1528.Shuffle_String.js)
 - [1539.第k个缺失的正整数 (Kth Missing Positive Number)](/1539.Kth_Missing_Positive_Number.js)
+- [1476.子矩阵查询 (Subrectangle Queries)](/1476.Subrectangle_Queries.js)
 - [1550.存在连续三个奇数的数组 (Three Consecutive Odds)](/1550.Three_Consecutive_Odds.js)
+- [1556.千位分隔数(Thousand Separator)](/1556.Thousand_Separator.js)
+- [1560.圆形赛道上经过次数最多的扇区(Most Visited Sector in a Circular Track)](/1560.Most_Visited_Sector_in_a_Circular_Track.js)
 - [5456.在区间范围内统计奇数数目 (Count Odd Numbers in an Interval Range)](/5456.Count_Odd_Numbers_in_an_Interval_Range.js)
 - [5475.统计好三元组 (Count Good Triplets)](/5475.Count_Good_Triplets.js)
 
@@ -199,10 +203,7 @@ Leetcode's answers by JavaScript.
 - [739.每日温度 (Daily Temperatures)](/739.Daily_Temperatures.js)
 - [912.排序数组 (Sort an Array)](/912.Sort_an_Array.js)
 - [986.区间列表的交集 (Interval List Intersections)](/986.Interval_List_Intersection.js)
-- [1313.解压缩编码列表 (Decompress Run-Length Encoded List)](/1313.Decompress_Run-Length_Encoded_List.js)
 - [1551.使数组中所有元素相等的最小操作数 (Minimum Operations to Make Array Equal)](/1551.Minimum_Operations_to_Make_Array_Equal.js)
-- [1556.千位分隔数(Thousand Separator)](/1556.Thousand_Separator.js)
-- [1560.圆形赛道上经过次数最多的扇区(Most Visited Sector in a Circular Track)](/1560.Most_Visited_Sector_in_a_Circular_Track.js)
 - [5476.找出数组游戏的赢家 (Find the Winner of an Array Game)](/5476.Find_the_Winner_of_an_Array_Game.js)
 
 ### difficult
