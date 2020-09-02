@@ -4,6 +4,7 @@
  */
 var maximumProduct = function (nums) {
   /**
+   * 解法1：可读性高版
    * 思路:
    * 升序排序
    * 全正数情况：直接乘后三位
@@ -29,4 +30,17 @@ var maximumProduct = function (nums) {
   }
   const result = Math.max(leftMax, rightMax);
   return result;
+
+  /**
+   * @param {number[]} nums
+   * @return {number}
+   */
+  /**
+   * 解法2：简洁版
+   */
+  nums.sort((x, y) => x - y);
+  return Math.max(
+    nums[0] * nums[1] * nums[nums.length - 1],
+    nums[nums.length - 3] * nums[nums.length - 2] * nums[nums.length - 1]
+  );
 };
