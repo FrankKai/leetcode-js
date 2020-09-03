@@ -16,6 +16,7 @@ Leetcode's answers by JavaScript.
 - [27.移除元素 (Remove Element)](/27.Remove_Element.js)
 - [28.实现 strStr() (Implement strStr())](</28.Implement_strStr().js>)
 - [35.搜索插入位置 (Search Insert Position)](/35.Search_Insert_Position.js)
+- [38.外观数列 (Count and Say)](/38.Count_and_Say.js)
 - [53.最大子序和 (Maximum Subarray)](/53.Maximum_Subarray.js)
 - [58.最后一个单词的长度 (Length of Last World)](/58.Length_of_Last_World.js)
 - [66.加一 (Plus One)](/66.Plus_One.js)
