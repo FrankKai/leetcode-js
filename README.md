@@ -32,6 +32,7 @@ Leetcode's answers by JavaScript.
 - [121.买卖股票的最佳时机 (Best Time to Buy and Sell Stock)](/121.Best_Time_to_Buy_and_Sell_Stock.js)
 - [125.验证回文串 (Valid Palindrome)](/125.Valid_Palindrome.js)
 - [136.只出现一次的数字 (Single Number)](/136.Single_Number.js)
+- [141.环形链表 (Linked List Cycle)](/141.Linked_List_Cycle.js)
 - [155.最小栈 (Min Stack)](/155.Min_Stack.js)
 - [167.两数之和 II - 输入有序数组 (Two Sum II - Input array is sorted)](/167.Two_Sum_II-Input_array_is_sorted.js)
 - [168.Excel 表列名称 (Excel Sheet Column Title)](/168.Excel_Sheet_Column_Title.js)
