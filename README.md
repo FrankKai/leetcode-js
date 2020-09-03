@@ -22,6 +22,7 @@ Leetcode's answers by JavaScript.
 - [67.二进制求和 (Add Binary)](/67.Add_Binary.js)
 - [69.x 的平方根 (Sqrt(x))](</69.Sqrt(x).js>)
 - [70.爬楼梯 (Climbing Stairs)](/70.Climbing_Stairs.js)
+- [83.删除排序链表中的重复元素 (Remove Duplicates from Sorted List)](/83.Remove_Duplicates_from_Sorted_List.js)
 - [88.合并两个有序数组 (Merge Sorted Array)](/88.Merge_Sorted_Array.js)
 - [100.相同的树 (Same Tree)](/100.Same_Tree.js)
 - [104.二叉树的最大深度 (Maximum Depth of Binary Tree)](/104.Maximum_Depth_Of_Binary_Tree.js)
