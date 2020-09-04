@@ -180,6 +180,7 @@ Leetcode's answers by JavaScript.
 - [剑指offer03.数组中重复的数字](/剑指offer03.数组中重复的数字.js)
 - [剑指offer04.二维数组中的查找](/剑指offer04.二维数组中的查找.js)
 - [剑指offer05.替换空格](/剑指offer05.替换空格.js)
+- [剑指offer06.从头到尾打印链表](/剑指offer06.从头到尾打印链表.js)
 
 ### medium
 
