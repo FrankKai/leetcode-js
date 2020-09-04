@@ -181,6 +181,7 @@ Leetcode's answers by JavaScript.
 - [剑指offer04.二维数组中的查找](/剑指offer04.二维数组中的查找.js)
 - [剑指offer05.替换空格](/剑指offer05.替换空格.js)
 - [剑指offer06.从头到尾打印链表](/剑指offer06.从头到尾打印链表.js)
+- [剑指offer09.用两个栈实现队列](/剑指offer09.用两个栈实现队列.js)
 
 ### medium
 
