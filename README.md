@@ -179,6 +179,7 @@ Leetcode's answers by JavaScript.
 - [5475.统计好三元组 (Count Good Triplets)](/5475.Count_Good_Triplets.js)
 - [剑指offer03.数组中重复的数字](/剑指offer03.数组中重复的数字.js)
 - [剑指offer04.二维数组中的查找](/剑指offer04.二维数组中的查找.js)
+- [剑指offer05.替换空格](/剑指offer05.替换空格.js)
 
 ### medium
 
