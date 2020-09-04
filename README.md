@@ -190,6 +190,7 @@ Leetcode's answers by JavaScript.
 - [36.有效的数独 (Valid Sudoku)](/36.Valid_Sudoku.js)
 - [49.字母异位词分组 (Group Anagrams)](/49.Group_Anagrams.js)
 - [56.合并区间 (Merge Intervals)](/56.Merge_Intervals.js)
+- [61.旋转链表 (Rotate List)](/61.Rotate_List.js)
 - [75.颜色分类 (Sort Colors)](/75.Sort_Colors.js)
 - [86.分隔链表 (Partition List)](/86.Partition_List.js)
 - [94.二叉树的中序遍历 (Binary Tree Inorder Traversal)](/94.Binary_Tree_Inorder_Traversal.js)
