@@ -184,6 +184,7 @@ Leetcode's answers by JavaScript.
 - [剑指offer09.用两个栈实现队列](/剑指offer09.用两个栈实现队列.js)
 - [剑指offer11.旋转数组的最小数字](/剑指offer11.旋转数组的最小数字.js)
 - [剑指offer15.二进制中1的个数](/剑指offer15.二进制中1的个数.js)
+- [剑指offer17.打印从1到最大的n位数](/剑指offer17.打印从1到最大的n位数.js)
 
 ### medium
 
