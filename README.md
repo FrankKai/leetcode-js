@@ -187,6 +187,8 @@ Leetcode's answers by JavaScript.
 - [剑指offer17.打印从1到最大的n位数](/剑指offer17.打印从1到最大的n位数.js)
 - [剑指offer18.删除链表的节点](/剑指offer18.删除链表的节点.js)
 - [剑指offer21.调整数组顺序使奇数位于偶数前面](/剑指offer21.调整数组顺序使奇数位于偶数前面.js)
+- [剑指offer22.链表中倒数第k个节点](/剑指offer22.链表中倒数第k个节点.js)
+- [剑指offer24.反转链表](/剑指offer24.反转链表.js)
 
 ### medium
 
