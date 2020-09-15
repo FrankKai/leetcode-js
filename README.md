@@ -193,6 +193,7 @@ Leetcode's answers by JavaScript.
 - [剑指offer30.包含min函数的栈](/剑指offer30.包含min函数的栈.js)
 - [剑指offer39.数组中出现次数超过一半的数字](/剑指offer39.数组中出现次数超过一半的数字.js)
 - [剑指offer40.最小的k个数](/剑指offer40.最小的k个数.js)
+- [剑指offer50.第一个只出现一次的字符](/剑指offer50.第一个只出现一次的字符.js)
 
 ### medium
 
