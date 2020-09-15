@@ -192,6 +192,7 @@ Leetcode's answers by JavaScript.
 - [剑指offer25.合并两个排序的链表](/剑指offer25.合并两个排序的链表.js)
 - [剑指offer30.包含min函数的栈](/剑指offer30.包含min函数的栈.js)
 - [剑指offer39.数组中出现次数超过一半的数字](/剑指offer39.数组中出现次数超过一半的数字.js)
+- [剑指offer40.最小的k个数](/剑指offer40.最小的k个数.js)
 
 ### medium
 
