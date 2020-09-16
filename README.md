@@ -196,6 +196,7 @@ Leetcode's answers by JavaScript.
 - [剑指offer50.第一个只出现一次的字符](/剑指offer50.第一个只出现一次的字符.js)
 - [剑指offer53-I.在排序数组中查找数字I](/剑指offer53-I.在排序数组中查找数字I.js)
 - [剑指offer53-II.在0~n-1中缺失的数字](/剑指offer53-II.在0~n-1中缺失的数字.js)
+- [剑指offer57.和为s的两个数字](/剑指offer57.和为s的两个数字.js)
 
 ### medium
 
