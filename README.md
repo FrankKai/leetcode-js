@@ -198,6 +198,7 @@ Leetcode's answers by JavaScript.
 - [剑指offer53-II.在0~n-1中缺失的数字](/剑指offer53-II.在0~n-1中缺失的数字.js)
 - [剑指offer57.和为s的两个数字](/剑指offer57.和为s的两个数字.js)
 - [剑指offer58-I.翻转单词顺序](/剑指offer58-I.翻转单词顺序.js)
+- [剑指offer58-II.左旋转字符串](/剑指offer58-II.左旋转字符串.js)
 
 ### medium
 
