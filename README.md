@@ -201,6 +201,7 @@ Leetcode's answers by JavaScript.
 - [剑指offer58-II.左旋转字符串](/剑指offer58-II.左旋转字符串.js)
 - [剑指offer59-I.滑动窗口的最大值](/剑指offer59-I.滑动窗口的最大值.js)
 - [剑指offer62.圆圈中最后剩下的数字](/剑指offer62.圆圈中最后剩下的数字.js)
+- [k-01.01.判定字符是否唯一](/k-01.01.判定字符是否唯一.js)
 
 ### medium
 
