@@ -249,6 +249,7 @@ Leetcode's answers by JavaScript.
 - [380.常数时间插入、删除和获取随机元素 (Insert Delete GetRandom O(1))](</380.Insert_Delete_GetRandom_O(1).js>)
 - [384.打乱数组 (Shuffle an Array)](/384.Shuffle_an_Array.js)
 - [442.数组中重复的数据（Find All Duplicates in an Array）](/442.Find_All_Duplicates_in_an_Array.js)
+- [533.TinyURL的加密与解密 (Encode and Decode TinyURL)](/533.Encode_and_Decode_TinyURL.js)
 - [622.设计循环队列 (Queue Circular)](/622.Queue_Circular.js)
 - [628.三个数的最大乘积 (Maximum Product of Three Numbers)](/628.Maximum_Product_of_Three_Numbers.js)
 - [707.设计链表（Design Linked List）](/707.Design_Linked_List.js)
