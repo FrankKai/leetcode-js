@@ -35,4 +35,31 @@ var intersect = function (nums1, nums2) {
     }
   }
   return result;
+  /**
+   * 解法：数组构建
+   */
+  const count = (arr) => {
+    const obj = {};
+    for (const num of arr) {
+      if (!obj[num]) {
+        obj[num] = 1;
+      } else {
+        obj[num]++;
+      }
+    }
+    return obj;
+  };
+  const count1 = count(nums1);
+  const count2 = count(nums2);
+  const min = {};
+  for (let key in count1) {
+    if (count1[key] && count2[key]) {
+      min[key] = Math.min(count1[key], count2[key]);
+    }
+  }
+  let result = [];
+  for (let num in min) {
+    result = [...result, ...new Array(min[num]).fill(num)];
+  }
+  return result;
 };
