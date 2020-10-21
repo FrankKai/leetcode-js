@@ -93,6 +93,7 @@ Leetcode's answers by JavaScript.
 - [581.最短无序连续子数组 (Shortest Unsorted Continuous Subarray)](/581.Shortest_Unsorted_Continuous_Subarray.js)
 - [599.两个列表的最小索引总和 (Minimum Index Sum of Two Lists)](/599.Minimum_Index_Sum_of_Two_Lists.js)
 - [645.错误的集合 (Set Mismatch)](/645.Set_Mismatch.js)
+- [657.机器人能否返回原点 (Robot Return to Origin)](/657.Robot_Return_to_Origin.js)
 - [693.交替位二进制数 (Binary Number with Alternating Bits)](/693.Binary_Number_with_Alternating_Bits.js)
 - [703.数据流中的第 K 大元素 (Kth Largest Element in a Stream)](/703.Kth_Largest_Element_in_a_Stream.js)
 - [704.二分查找 (Binary Search)](/704.Binary_Search.js)
@@ -217,6 +218,9 @@ Leetcode's answers by JavaScript.
 - [k-10.05.稀疏数组搜索](/k-10.05.稀疏数组搜索.js)
 - [k-17.04.消失的数字](/k-17.04.消失的数字.js)
 - [k-17.10.主要元素](/k-17.10.主要元素.js)
+- [LCP_01.猜数字](/LCP_01.猜数字.js)
+- [LCP_06.拿硬币](/LCP_06.拿硬币.js)
+- [LCP_17.速算机器人](/LCP_17.速算机器人.js)
 
 ### medium
 
