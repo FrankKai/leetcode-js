@@ -110,6 +110,7 @@ Leetcode's answers by JavaScript.
 - [905.按奇偶排序数组 (Sort Array By Parity)](/905.Sort_Array_By_Parity.js)
 - [917.仅仅反转字母 (Reverse Only Letters)](/917.Reverse_Only_Letters.js)
 - [922.按奇偶排序数组 II (Sort Array By Parity II)](/922.Sort_Array_By_Parity_II.js)
+- [925.长按键入 (Long Pressed Name)](/925.Long_Pressed_Name.js)
 - [941.有效的山脉数组 (Valid Mountain Array)](/941.Valid_Mountain_Array.js)
 - [961.重复 N 次的元素 (N-Repeated Element in Size 2N Array)](/961.N-Repeated_Element_in_Size_2N_Array.js)
 - [977.有序数组的平方 (Squares of a Sorted Array)](/977.Squares_of_a_Sorted_Array.js)
