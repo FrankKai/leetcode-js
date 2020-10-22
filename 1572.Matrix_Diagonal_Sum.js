@@ -11,6 +11,7 @@ var diagonalSum = function (mat) {
    * 偶数：直接相加即可
    * 奇数：行、列坐标为 (mat.length - 1)/2, (mat.length - 1)/2的只加一次
    */
+  // 第一版
   let i = 0;
   let duplicate = 0;
   let sum = 0;
@@ -29,6 +30,24 @@ var diagonalSum = function (mat) {
   }
   if (mat.length / 2 === 1) {
     sum -= duplicate;
+  }
+  return sum;
+  // 优化版
+  let i = 0;
+  let sum = 0;
+  const tail = mat.length - 1;
+  while (i < mat.length) {
+    let j = 0;
+    while (j < mat[i].length) {
+      if (i === j || i + j === tail) {
+        sum += mat[i][j];
+      }
+      j++;
+    }
+    i++;
+  }
+  if (mat.length / 2 === 1) {
+    sum -= mat[tail / 2][tail / 2];
   }
   return sum;
 };
