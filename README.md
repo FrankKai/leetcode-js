@@ -140,6 +140,7 @@ Leetcode's answers by JavaScript.
 - [1290.二进制链表转整数（Convert Binary Number in a Linked List to Integer）](/1290.Convert_Binary_Number_in_a_Linked_List_to_Integer.js)
 - [1295.统计位数为偶数的数字 (Find Numbers with Even Number of Digits)](/1295.Find_Numbers_with_Even_Number_of_Digits.js)
 - [1299.将每个元素替换为右侧最大元素 (Replace Elements with Greatest Element on Right Side)](/1299.Replace_Elements_with_Greatest_Element_on_Right_Side.js)
+- [1304.和为零的N个唯一整数 (Find N Unique Integers Sum up to Zero)](/1304.Find_N_Unique_Integers_Sum_up_to_Zero.js)
 - [1309.解码字母到整数映射 (Decrypt String from Alphabet to Integer Mapping)](/1309.Decrypt_String_from_Alphabet_to_Integer_Mapping.js)
 - [1313.解压缩编码列表 (Decompress Run-Length Encoded List)](/1313.Decompress_Run-Length_Encoded_List.js)
 - [1317.将整数转换为两个无零整数的和 (Convert Integer to the Sum of Two No-Zero Integers)](/1317.Convert_Integer_to_the_Sum_of_Two_No-Zero_Integers.js)
