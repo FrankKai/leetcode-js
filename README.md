@@ -115,6 +115,7 @@ Leetcode's answers by JavaScript.
 - [922.按奇偶排序数组 II (Sort Array By Parity II)](/922.Sort_Array_By_Parity_II.js)
 - [925.长按键入 (Long Pressed Name)](/925.Long_Pressed_Name.js)
 - [941.有效的山脉数组 (Valid Mountain Array)](/941.Valid_Mountain_Array.js)
+- [942.增减字符串匹配 (DI String Match)](/942.DI_String_Match.js)
 - [961.重复 N 次的元素 (N-Repeated Element in Size 2N Array)](/961.N-Repeated_Element_in_Size_2N_Array.js)
 - [977.有序数组的平方 (Squares of a Sorted Array)](/977.Squares_of_a_Sorted_Array.js)
 - [985.查询后的偶数和 (Sum of Even Numbers After Queries)](/985.Sum_of_Even_Numbers_After_Queries.js)
