@@ -124,6 +124,7 @@ Leetcode's answers by JavaScript.
 - [1010.总持续时间可被 60 整除的歌曲 (Pairs of Songs With Total Durations Divisible by 60)](/1010.Pairs_of_Songs_With_Total_Durations_Divisible_by_60.js)
 - [1046.最后一块石头的重量 (Last Stone Weight)](/1046.Last_Stone_Weight.js)
 - [1047.删除字符串中的所有相邻重复项 (Remove All Adjacent Duplicates In String)](/1047.Remove_All_Adjacent_Duplicates_In_String.js)
+- [1051.高度检查器 (Height Checker)](/1051.Height_Checker.js)
 - [1078.Bigram 分词 (Occurrences After Bigram)](/1078.Occurrences_After_Bigram.js)
 - [1089.复写零 (Duplicate Zeros)](/1089.Duplicate_Zeros.js)
 - [1108.IP 地址无效化（Defanging an IP Address）](/1108.Defanging_an_IP_Address.js)
