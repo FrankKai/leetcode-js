@@ -105,6 +105,7 @@ Leetcode's answers by JavaScript.
 - [771.宝石与石头 (Jewels and Stones)](/771.Jewels_and_Stones.js)
 - [804.唯一摩尔斯密码词（Unique Morse Code Words）](/804.Unique_Morse_Code_Words.js)
 - [819.最常见的单词（Most Common Word）](/819.Most_Common_Word.js)
+- [821.字符的最短距离 (Shortest Distance to a Character)](/821.Shortest_Distance_to_a_Character.js)
 - [832.翻转图像 (Flipping an Image)](/832.Flipping_an_Image.js)
 - [852.山脉数组的峰顶索引](/852.Peak_Index_in_a_Mountain_Array.js)
 - [868.二进制间距 (Binary Gap)](/868.Binary_Gap.js)
