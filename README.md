@@ -103,6 +103,7 @@ Leetcode's answers by JavaScript.
 - [728.自除数 (Self Dividing Numbers)](/728.Self_Dividing_Numbers.js)
 - [744.寻找比目标字母大的最小字母 (Find Smallest Letter Greater Than Target)](/744.Find_Smallest_Letter_Greater_Than_Target.js)
 - [771.宝石与石头 (Jewels and Stones)](/771.Jewels_and_Stones.js)
+- [796.旋转字符串 (Rotate String)](/796.Rotate_String.js)
 - [804.唯一摩尔斯密码词（Unique Morse Code Words）](/804.Unique_Morse_Code_Words.js)
 - [811.子域名访问计数 (Subdomain Visit Count)](/811.Subdomain_Visit_Count.js)
 - [819.最常见的单词（Most Common Word）](/819.Most_Common_Word.js)
