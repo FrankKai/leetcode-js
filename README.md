@@ -157,6 +157,7 @@ Leetcode's answers by JavaScript.
 - [1356.根据数字二进制下 1 的数目排序 (Sort Integers by The Number of 1 Bits)](/1356.Sort_Integers_by_The_Number_of_1_Bits.js)
 - [1360.日期之间隔几天 (Number of Days Between Two Dates)](/1360.Number_of_Days_Between_Two_Dates.js)
 - [1365.有多少小于当前数字的数字 (How Many Numbers Are Smaller Than the Current Number)](/1365.How_Many_Numbers_Are_Smaller_Than_the_Current_Number.js)
+- [1370.上下升降字符串 (Increasing Decreasing String)](/1370.Increasing_Decreasing_String.js)
 - [1374.生成每种字符都是奇数个的字符串 (Generate a String With Characters That Have Odd Counts)](/1374.Generate_a_String_With_Characters_That_Have_Odd_Counts.js)
 - [1380.矩阵中的幸运数 (Lucky Numbers in a Matrix)](/1380.Lucky_Numbers_in_a_Matrix.js)
 - [1385.两个数组间的距离值（Find the Distance Value Between Two Arrays）](/1385.Find_the_Distance_Value_Between_Two_Arrays.js)
