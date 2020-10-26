@@ -23,4 +23,15 @@ var reverseString = function (s) {
     arr[j] = temp;
   }
   return s;
+  /**
+   * 解法3：解构
+   */
+  let i = 0;
+  let j = s.length - 1;
+  while (i < j) {
+    [s[i], s[j]] = [s[j], s[i]];
+    i++;
+    j--;
+  }
+  return s;
 };
