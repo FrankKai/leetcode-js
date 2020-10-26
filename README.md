@@ -91,6 +91,7 @@ Leetcode's answers by JavaScript.
 - [551.学生出勤记录 I (Student Attendance Record I)](/551.Student_Attendance_Record_I.js)
 - [557.反转字符串中的单词 III (Reverse Words in a String III)](/557.Reverse_Words_in_a_String_III.js)
 - [561.数组拆分 I (Array Partition I)](/561.Array_Partition_I.js)
+- [575.分糖果 (Distribute Candies)](/575.Distribute_Candies.js)
 - [581.最短无序连续子数组 (Shortest Unsorted Continuous Subarray)](/581.Shortest_Unsorted_Continuous_Subarray.js)
 - [599.两个列表的最小索引总和 (Minimum Index Sum of Two Lists)](/599.Minimum_Index_Sum_of_Two_Lists.js)
 - [645.错误的集合 (Set Mismatch)](/645.Set_Mismatch.js)
