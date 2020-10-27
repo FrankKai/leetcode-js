@@ -131,6 +131,7 @@ Leetcode's answers by JavaScript.
 - [989.数组形式的整数加法 (Add to Array-Form of Integer)](/989.Add_to_Array-Form_of_Integer.js)
 - [1009.十进制整数的反码 (Complement of Base 10 Integer)](/1009.Complement_of_Base_10_Integer.js)
 - [1010.总持续时间可被 60 整除的歌曲 (Pairs of Songs With Total Durations Divisible by 60)](/1010.Pairs_of_Songs_With_Total_Durations_Divisible_by_60.js)
+- [1021.删除最外层的括号 (Remove Outermost Parentheses)](/1021.Remove_Outermost_Parentheses.js)
 - [1046.最后一块石头的重量 (Last Stone Weight)](/1046.Last_Stone_Weight.js)
 - [1047.删除字符串中的所有相邻重复项 (Remove All Adjacent Duplicates In String)](/1047.Remove_All_Adjacent_Duplicates_In_String.js)
 - [1051.高度检查器 (Height Checker)](/1051.Height_Checker.js)
