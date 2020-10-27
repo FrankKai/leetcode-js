@@ -197,6 +197,7 @@ Leetcode's answers by JavaScript.
 - [1556.千位分隔数(Thousand Separator)](/1556.Thousand_Separator.js)
 - [1560.圆形赛道上经过次数最多的扇区 (Most Visited Sector in a Circular Track)](/1560.Most_Visited_Sector_in_a_Circular_Track.js)
 - [1572.矩阵对角线元素的和 (Matrix Diagonal Sum)](/1572.Matrix_Diagonal_Sum.js)
+- [1598.文件夹操作日志搜集器 (Crawler Log Folder)](/1598.Crawler_Log_Folder.js)
 - [1603.设计停车系统(Design Parking System)](/1603.Design_Parking_System.js)
 - [1624.两个相同字符之间的最长子字符串 (Largest Substring Between Two Equal Characters)](/1624.Largest_Substring_Between_Two_Equal_Characters.js)
 - [5456.在区间范围内统计奇数数目 (Count Odd Numbers in an Interval Range)](/5456.Count_Odd_Numbers_in_an_Interval_Range.js)
