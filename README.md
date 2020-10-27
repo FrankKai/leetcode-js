@@ -192,6 +192,7 @@ Leetcode's answers by JavaScript.
 - [1512.好数对的数目（Number of Good Pairs）](/1512.Number_of_Good_Pairs.js)
 - [1528.重新排列字符串 (Shuffle String)](/1528.Shuffle_String.js)
 - [1539.第k个缺失的正整数 (Kth Missing Positive Number)](/1539.Kth_Missing_Positive_Number.js)
+- [1544.整理字符串 (Make The String Great)](/1544.Make_The_String_Great.js)
 - [1550.存在连续三个奇数的数组 (Three Consecutive Odds)](/1550.Three_Consecutive_Odds.js)
 - [1556.千位分隔数(Thousand Separator)](/1556.Thousand_Separator.js)
 - [1560.圆形赛道上经过次数最多的扇区 (Most Visited Sector in a Circular Track)](/1560.Most_Visited_Sector_in_a_Circular_Track.js)
