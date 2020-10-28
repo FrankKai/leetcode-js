@@ -160,6 +160,7 @@ Leetcode's answers by JavaScript.
 - [1317.将整数转换为两个无零整数的和 (Convert Integer to the Sum of Two No-Zero Integers)](/1317.Convert_Integer_to_the_Sum_of_Two_No-Zero_Integers.js)
 - [1323.6 和 9 组成的最大数字（Maximum 69 Number）](/1323.Maximum_69_Number.js)
 - [1331.数组序号转换 (Rank Transform of an Array)](/1331.Rank_Transform_of_an_Array.js)
+- [1337.方阵中战斗力最弱的K行 (The K Weakest Rows in a Matrix)](/1337.The_K_Weakest_Rows_in_a_Matrix.js)
 - [1342.将数字变成 0 的操作次数（Number of Steps to Reduce a Number to Zero）](/1342.Number_of_Steps_to_Reduce_a_Number_to_Zero.js)
 - [1346.检查整数及其两倍数是否存在 (Check If N and Its Double Exist)](/1346.Check_If_N_and_Its_Double_Exist.js)
 - [1351.统计有序矩阵中的负数 (Count Negative Numbers in a Sorted Matrix)](/1351.Count_Negative_Numbers_in_a_Sorted_Matrix.js)
