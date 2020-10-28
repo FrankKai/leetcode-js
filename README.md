@@ -200,6 +200,7 @@ Leetcode's answers by JavaScript.
 - [1572.矩阵对角线元素的和 (Matrix Diagonal Sum)](/1572.Matrix_Diagonal_Sum.js)
 - [1598.文件夹操作日志搜集器 (Crawler Log Folder)](/1598.Crawler_Log_Folder.js)
 - [1603.设计停车系统(Design Parking System)](/1603.Design_Parking_System.js)
+- [1614.括号的最大嵌套深度(Maximum Nesting Depth of the Parentheses)](/1614.Maximum_Nesting_Depth_of_the_Parentheses.js)
 - [1624.两个相同字符之间的最长子字符串 (Largest Substring Between Two Equal Characters)](/1624.Largest_Substring_Between_Two_Equal_Characters.js)
 - [5456.在区间范围内统计奇数数目 (Count Odd Numbers in an Interval Range)](/5456.Count_Odd_Numbers_in_an_Interval_Range.js)
 - [5475.统计好三元组 (Count Good Triplets)](/5475.Count_Good_Triplets.js)
