@@ -287,6 +287,7 @@ Leetcode's answers by JavaScript.
 - [628.三个数的最大乘积 (Maximum Product of Three Numbers)](/628.Maximum_Product_of_Three_Numbers.js)
 - [707.设计链表（Design Linked List）](/707.Design_Linked_List.js)
 - [739.每日温度 (Daily Temperatures)](/739.Daily_Temperatures.js)
+- [807.保持城市天际线 (Max Increase to Keep City Skyline)](/807.Max_Increase_to_Keep_City_Skyline.js)
 - [912.排序数组 (Sort an Array)](/912.Sort_an_Array.js)
 - [986.区间列表的交集 (Interval List Intersections)](/986.Interval_List_Intersection.js)
 - [1410.HTML实体解析器 (HTML Entity Parser)](/1410.HTML_Entity_Parser.js)
