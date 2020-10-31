@@ -290,6 +290,7 @@ Leetcode's answers by JavaScript.
 - [807.保持城市天际线 (Max Increase to Keep City Skyline)](/807.Max_Increase_to_Keep_City_Skyline.js)
 - [912.排序数组 (Sort an Array)](/912.Sort_an_Array.js)
 - [986.区间列表的交集 (Interval List Intersections)](/986.Interval_List_Intersection.js)
+- [1282.用户分组 (Group the People Given the Group Size They Belong To)](/1282.Group_the_People_Given_the_Group_Size_They_Belong_To.js)
 - [1410.HTML实体解析器 (HTML Entity Parser)](/1410.HTML_Entity_Parser.js)
 - [1476.子矩阵查询 (Subrectangle Queries)](/1476.Subrectangle_Queries.js)
 - [1551.使数组中所有元素相等的最小操作数 (Minimum Operations to Make Array Equal)](/1551.Minimum_Operations_to_Make_Array_Equal.js)
