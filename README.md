@@ -117,6 +117,7 @@ Leetcode's answers by JavaScript.
 - [832.翻转图像 (Flipping an Image)](/832.Flipping_an_Image.js)
 - [844.比较含退格的字符串 (Backspace String Compare)](/844.Backspace_String_Compare.js)
 - [852.山脉数组的峰顶索引](/852.Peak_Index_in_a_Mountain_Array.js)
+- [860.柠檬水找零 (Lemonade Change)](/860.Lemonade_Change.js)
 - [868.二进制间距 (Binary Gap)](/868.Binary_Gap.js)
 - [884.两句话中的不常见单词 (Uncommon Words from Two Sentences)](/884.Uncommon_Words_from_Two_Sentences.js)
 - [905.按奇偶排序数组 (Sort Array By Parity)](/905.Sort_Array_By_Parity.js)
