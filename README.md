@@ -116,7 +116,7 @@ Leetcode's answers by JavaScript.
 - [821.字符的最短距离 (Shortest Distance to a Character)](/821.Shortest_Distance_to_a_Character.js)
 - [832.翻转图像 (Flipping an Image)](/832.Flipping_an_Image.js)
 - [844.比较含退格的字符串 (Backspace String Compare)](/844.Backspace_String_Compare.js)
-- [852.山脉数组的峰顶索引](/852.Peak_Index_in_a_Mountain_Array.js)
+- [852.山脉数组的峰顶索引 (Peak Index in a Mountain Array)](/852.Peak_Index_in_a_Mountain_Array.js)
 - [860.柠檬水找零 (Lemonade Change)](/860.Lemonade_Change.js)
 - [868.二进制间距 (Binary Gap)](/868.Binary_Gap.js)
 - [884.两句话中的不常见单词 (Uncommon Words from Two Sentences)](/884.Uncommon_Words_from_Two_Sentences.js)
@@ -273,6 +273,7 @@ Leetcode's answers by JavaScript.
 - [102.二叉树的层序遍历(Binary Tree Level Order Traversal)](/102.Binary_Tree_Level_Order_Traversal.js)
 - [137.只出现一次的数字 II (Single Number II)](/137.Single_Number_II.js)
 - [144.二叉树的前序遍历 (Binary Tree Preorder Traversal)](/144.Binary_Tree_Preorder_Traversal.js)
+- [145.二叉树的后序遍历（Binary Tree Postorder Traversal）](/145.Binary_Tree_Postorder_Traversal.js)
 - [151.翻转字符串里的单词 (Reverse Words in a String)](/151.Reverse_Words_in_a_String.js)
 - [165.比较版本号（Compare Version Numbers）](/165.Compare_Version_Numbers.js)
 - [187.重复的 DNA 序列 (Repeated DNA Sequences)](/187.Repeated_DNA_Sequences.js)
@@ -299,7 +300,3 @@ Leetcode's answers by JavaScript.
 - [5476.找出数组游戏的赢家 (Find the Winner of an Array Game)](/5476.Find_the_Winner_of_an_Array_Game.js)
 - [剑指offer64.求1+2+...+n](/剑指offer64.求1+2+...+n.js)
 - [k-16.01.交换数字](/k-16.01.交换数字.js)
-
-### difficult
-
-- [145.二叉树的后序遍历（Binary Tree Postorder Traversal）](/145.Binary_Tree_Postorder_Traversal.js)
