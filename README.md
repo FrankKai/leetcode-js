@@ -120,6 +120,7 @@ Leetcode's answers by JavaScript.
 - [860.柠檬水找零 (Lemonade Change)](/860.Lemonade_Change.js)
 - [868.二进制间距 (Binary Gap)](/868.Binary_Gap.js)
 - [884.两句话中的不常见单词 (Uncommon Words from Two Sentences)](/884.Uncommon_Words_from_Two_Sentences.js)
+- [888.公平的糖果交换 (Fair Candy Swap)](/888.Fair_Candy_Swap.js)
 - [905.按奇偶排序数组 (Sort Array By Parity)](/905.Sort_Array_By_Parity.js)
 - [917.仅仅反转字母 (Reverse Only Letters)](/917.Reverse_Only_Letters.js)
 - [922.按奇偶排序数组 II (Sort Array By Parity II)](/922.Sort_Array_By_Parity_II.js)
