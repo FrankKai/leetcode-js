@@ -194,6 +194,7 @@ Leetcode's answers by JavaScript.
 - [1502.判断能否形成等差数列 (Can Make Arithmetic Progression From Sequence)](/1502.Can_Make_Arithmetic_Progression_From_Sequence.js)
 - [1507.转变日期格式（Reformat Date）](/1507.Reformat_Date.js)
 - [1512.好数对的数目（Number of Good Pairs）](/1512.Number_of_Good_Pairs.js)
+- [1518.换酒问题 (Water Bottles)](/1518.Water_Bottles.js)
 - [1528.重新排列字符串 (Shuffle String)](/1528.Shuffle_String.js)
 - [1539.第k个缺失的正整数 (Kth Missing Positive Number)](/1539.Kth_Missing_Positive_Number.js)
 - [1544.整理字符串 (Make The String Great)](/1544.Make_The_String_Great.js)
