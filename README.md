@@ -207,6 +207,7 @@ Leetcode's answers by JavaScript.
 - [1614.括号的最大嵌套深度(Maximum Nesting Depth of the Parentheses)](/1614.Maximum_Nesting_Depth_of_the_Parentheses.js)
 - [1619.删除某些元素后的数组均值 (Mean of Array After Removing Some Elements)](/1619.Mean_of_Array_After_Removing_Some_Elements.js)
 - [1624.两个相同字符之间的最长子字符串 (Largest Substring Between Two Equal Characters)](/1624.Largest_Substring_Between_Two_Equal_Characters.js)
+- [1640.能否连接形成数组 (Check Array Formation Through Concatenation)](/1640.Check_Array_Formation_Through_Concatenation.js)
 - [5456.在区间范围内统计奇数数目 (Count Odd Numbers in an Interval Range)](/5456.Count_Odd_Numbers_in_an_Interval_Range.js)
 - [5475.统计好三元组 (Count Good Triplets)](/5475.Count_Good_Triplets.js)
 - [剑指offer03.数组中重复的数字](/剑指offer03.数组中重复的数字.js)
