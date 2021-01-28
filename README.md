@@ -210,6 +210,7 @@ Leetcode's answers by JavaScript.
 - [1624.两个相同字符之间的最长子字符串 (Largest Substring Between Two Equal Characters)](/1624.Largest_Substring_Between_Two_Equal_Characters.js)
 - [1636.按照频率将数组升序排序(Sort Array by Increasing Frequency)](/1636.Sort_Array_by_Increasing_Frequency.js)
 - [1640.能否连接形成数组 (Check Array Formation Through Concatenation)](/1640.Check_Array_Formation_Through_Concatenation.js)
+- [1716.计算力扣银行的钱 (Calculate Money in Leetcode Bank)](/1716.Calculate_Money_in_Leetcode_Bank.ts)
 - [5456.在区间范围内统计奇数数目 (Count Odd Numbers in an Interval Range)](/5456.Count_Odd_Numbers_in_an_Interval_Range.js)
 - [5475.统计好三元组 (Count Good Triplets)](/5475.Count_Good_Triplets.js)
 - [剑指offer03.数组中重复的数字](/剑指offer03.数组中重复的数字.js)
