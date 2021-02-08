@@ -210,6 +210,7 @@ Leetcode's answers by JavaScript and TypeScript.
 - [1624.两个相同字符之间的最长子字符串 (Largest Substring Between Two Equal Characters)](/1624.Largest_Substring_Between_Two_Equal_Characters.js)
 - [1636.按照频率将数组升序排序(Sort Array by Increasing Frequency)](/1636.Sort_Array_by_Increasing_Frequency.js)
 - [1640.能否连接形成数组 (Check Array Formation Through Concatenation)](/1640.Check_Array_Formation_Through_Concatenation.js)
+- [1684.统计一致字符串的数目 (Count the Number of Consistent Strings)](/1684.Count_the_Number_of_Consistent_Strings.ts)
 - [1704.判断字符串的两半是否相似 (Determine if String Halves Are Alike))](/1704.Determine_if_String_Halves_Are_Alike.ts)
 - [1716.计算力扣银行的钱 (Calculate Money in Leetcode Bank)](/1716.Calculate_Money_in_Leetcode_Bank.ts)
 - [1732.找到最高海拔(Find the Highest Altitude)](/1732.Find_the_Highest_Altitude.ts)
