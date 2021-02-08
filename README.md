@@ -1,7 +1,7 @@
 # leetcode-js
 
-Leecode 经典题目 JavaScript 题解。
-Leetcode's answers by JavaScript.
+Leecode 经典题目 JavaScript TypeScript 题解。
+Leetcode's answers by JavaScript and TypeScript.
 
 ### easy
 
