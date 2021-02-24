@@ -215,6 +215,7 @@ Leetcode's answers by JavaScript and TypeScript.
 - [1704.判断字符串的两半是否相似 (Determine if String Halves Are Alike))](/1704.Determine_if_String_Halves_Are_Alike.ts)
 - [1716.计算力扣银行的钱 (Calculate Money in Leetcode Bank)](/1716.Calculate_Money_in_Leetcode_Bank.ts)
 - [1732.找到最高海拔(Find the Highest Altitude)](/1732.Find_the_Highest_Altitude.ts)
+- [1768.交替合并字符串(Merge Strings Alternately)](/1768.Merge_Strings_Alternately.ts)
 - [5456.在区间范围内统计奇数数目 (Count Odd Numbers in an Interval Range)](/5456.Count_Odd_Numbers_in_an_Interval_Range.js)
 - [5475.统计好三元组 (Count Good Triplets)](/5475.Count_Good_Triplets.js)
 - [5657.唯一元素的和 (Sum of Unique Elements)](/5657.Sum_of_Unique_Elements.ts)
