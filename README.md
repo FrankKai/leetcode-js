@@ -223,6 +223,7 @@ Leetcode's answers by JavaScript and TypeScript.
 - [1768.交替合并字符串(Merge Strings Alternately)](/1768.Merge_Strings_Alternately.ts)
 - [1790.仅执行一次字符串交换能否使两个字符串相等 (Check if One String Swap Can Make Strings Equal)](/1790.Check_if_One_String_Swap_Can_Make_Strings_Equal.js)
 - [1805.字符串中不同整数的数目(Number of Different Integers in a String)](/1805.Number_of_Different_Integers_in_a_String.js)
+- [1812.判断国际象棋棋盘中一个格子的颜色(Determine Color of a Chessboard Square)](/1812.Determine_Color_of_a_Chessboard_Square.js)
 - [5456.在区间范围内统计奇数数目 (Count Odd Numbers in an Interval Range)](/5456.Count_Odd_Numbers_in_an_Interval_Range.js)
 - [5475.统计好三元组 (Count Good Triplets)](/5475.Count_Good_Triplets.js)
 - [5657.唯一元素的和 (Sum of Unique Elements)](/5657.Sum_of_Unique_Elements.ts)
