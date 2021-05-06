@@ -235,6 +235,7 @@ Leetcode's answers by JavaScript and TypeScript.
 - [1822.数组元素积的符号(Sign of the Product of an Array)](/1822.Sign_of_the_Product_of_an_Array.js)
 - [1827.最少操作使数组递增(Minimum Operations to Make the Array Increasing)](/1827.Minimum_Operations_to_Make_the_Array_Increasing.js)
 - [1832.判断句子是否为全字母句(Check if the Sentence Is Pangram)](/1832.Check_if_the_Sentence_Is_Pangram.js)
+- [1844.将所有数字用字符替换(Replace All Digits with Characters)](/1844.Replace_All_Digits_with_Characters.js)
 - [5456.在区间范围内统计奇数数目 (Count Odd Numbers in an Interval Range)](/5456.Count_Odd_Numbers_in_an_Interval_Range.js)
 - [5475.统计好三元组 (Count Good Triplets)](/5475.Count_Good_Triplets.js)
 - [5657.唯一元素的和 (Sum of Unique Elements)](/5657.Sum_of_Unique_Elements.ts)
