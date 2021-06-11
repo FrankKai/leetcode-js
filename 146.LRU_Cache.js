@@ -45,3 +45,38 @@ LRUCache.prototype.put = function (key, value) {
  * var param_1 = obj.get(key)
  * obj.put(key,value)
  */
+
+// 栈版本，用例通过20/21
+/**
+ * 解题思路：利用栈（栈顶栈底），Map记录值的特性实现LRU缓存机制
+ */
+var LRUCache = function (capacity) {
+  this.capacity = capacity;
+  this.stack = [];
+  this.map = new Map();
+};
+LRUCache.prototype.get = function (key) {
+  if (this.map.has(key)) {
+    const index = this.stack.findIndex((item) => item.key === key);
+    this.stack.unshift(this.stack.splice(index, 1)[0]);
+    return this.map.get(key);
+  }
+  return -1;
+};
+LRUCache.prototype.put = function (key, value) {
+  // 存储相同key时的处理
+  if (this.map.has(key)) {
+    const index = this.stack.findIndex((item) => item.key === key);
+    // 替换value并移动到栈底
+    this.stack[index].value = value;
+    this.stack.unshift(this.stack.splice(index, 1)[0]);
+    // 更新key的值
+    this.map.set(key, value);
+    return;
+  }
+  if (this.map.size === this.capacity) {
+    this.map.delete(this.stack.pop().key);
+  }
+  this.map.set(key, value);
+  this.stack.unshift({ key, value });
+};
