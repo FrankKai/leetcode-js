@@ -307,6 +307,7 @@ Leetcode's answers by JavaScript and TypeScript.
 - [137.只出现一次的数字 II (Single Number II)](/137.Single_Number_II.js)
 - [144.二叉树的前序遍历 (Binary Tree Preorder Traversal)](/144.Binary_Tree_Preorder_Traversal.js)
 - [145.二叉树的后序遍历（Binary Tree Postorder Traversal）](/145.Binary_Tree_Postorder_Traversal.js)
+- [146.LRU缓存机制 (LRU Cache)](/146.LRU_Cache.js)
 - [151.翻转字符串里的单词 (Reverse Words in a String)](/151.Reverse_Words_in_a_String.js)
 - [165.比较版本号（Compare Version Numbers）](/165.Compare_Version_Numbers.js)
 - [187.重复的 DNA 序列 (Repeated DNA Sequences)](/187.Repeated_DNA_Sequences.js)
