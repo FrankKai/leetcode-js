@@ -74,7 +74,6 @@ var search = function (nums, target) {
     if (nums.length === 1) {
       return nums[0] === target ? 0 : -1;
     }
-    let index = 0;
     let i = 0;
     let j = nums.length - 1;
     while (i <= j) {
