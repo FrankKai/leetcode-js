@@ -27,7 +27,7 @@ var fib = function (n) {
   }
   return calc(n);
   /**
-   * 解法3: 缓存变量
+   * 解法3: 缓存变量 动态规划
    */
   if (n <= 1) {
     return n;
@@ -42,4 +42,12 @@ var fib = function (n) {
     cache["n-1"] = res;
   }
   return cache["n-1"];
+  /**
+  * 解法4：DP 精简
+  */
+  const dp = [0, 1]
+  for(let i = 2; i<= n;i++){
+     dp[i] = dp[i-1]+dp[i-2]
+  }
+  return dp[n]
 };
