@@ -285,6 +285,7 @@ Leetcode's answers by JavaScript and TypeScript.
 - [2194.Excel 表中某个范围内的单元格(Cells in a Range on an Excel Sheet)](/2194.Cells_in_a_Range_on_an_Excel_Sheet.js)
 - [2215.找出两数组的不同(Find the Difference of Two Arrays)](/2215.Find_the_Difference_of_Two_Arrays.js)
 - [2206.将数组划分成相等数对(Divide Array Into Equal Pairs)](/2206.Divide_Array_Into_Equal_Pairs.js)
+- [2220.转换数字的最少位翻转次数(Minimum Bit Flips To Convert Number)](/2220.Minimum_Bit_Flips_To_Convert_Number.js)
 - [2224.转化时间需要的最少操作数(Minimum Number of Operations to Convert Time)](/2224.Minimum_Number_of_Operations_to_Convert_Time.js)
 - [2231.按奇偶性交换后的最大数字(Largest Number After Digit Swaps by Parity)](/2231.Largest_Number_After_Digit_Swaps_by_Parity.js)
 - [2235.两整数相加(Add Two Integers)](/2235.Add_Two_Integers.js)
