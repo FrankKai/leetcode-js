@@ -420,6 +420,7 @@ Leetcode's answers by JavaScript and TypeScript.
 - [707.设计链表（Design Linked List）](/707.Design_Linked_List.js)
 - [739.每日温度 (Daily Temperatures)](/739.Daily_Temperatures.js)
 - [807.保持城市天际线 (Max Increase to Keep City Skyline)](/807.Max_Increase_to_Keep_City_Skyline.js)
+- [831.隐藏个人信息(Masking Personal Information)](/831.Masking_Personal_Information.js)
 - [912.排序数组 (Sort an Array)](/912.Sort_an_Array.js)
 - [986.区间列表的交集 (Interval List Intersections)](/986.Interval_List_Intersection.js)
 - [1282.用户分组 (Group the People Given the Group Size They Belong To)](/1282.Group_the_People_Given_the_Group_Size_They_Belong_To.js)
