@@ -257,7 +257,7 @@ Leetcode's answers by JavaScript and TypeScript.
 - [1732.找到最高海拔(Find the Highest Altitude)](/1732.Find_the_Highest_Altitude.ts)
 - [1736.替换隐藏数字得到的最晚时间 (Latest Time by Replacing Hidden Digits)](/1736.Latest_Time_by_Replacing_Hidden_Digits.ts)
 - [1742.盒子中小球的最大数量(Maximum Number of Balls in a Box)](/1742.Maximum_Number_of_Balls_in_a_Box.ts)
-- [1758.生成交替二进制字符串的最少操作数(Minimum Changes To Make Alternating Binary String)](/1758.Minimum _Changes_To_Make_Alternating_Binary_String.js)
+- [1758.生成交替二进制字符串的最少操作数(Minimum Changes To Make Alternating Binary String)](/1758.Minimum_Changes_To_Make_Alternating_Binary_String.js)
 - [1768.交替合并字符串(Merge Strings Alternately)](/1768.Merge_Strings_Alternately.ts)
 - [1773.统计匹配检索规则的物品数量(Count Items Matching a Rule)](/1773.Count_Items_Matching_a_Rule.js)
 - [1784.检查二进制字符串字段(Check if Binary String Has at Most One Segment of Ones)](/1784.Check_if_Binary_String_Has_at_Most_One_Segment_of_Ones.js)
