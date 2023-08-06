@@ -332,6 +332,7 @@ Leetcode's answers by JavaScript and TypeScript.
 - [2248.多个数组求交集(Intersection of multiple arrays)](/2248.Intersection_of_multiple_arrays.js)
 - [2255.统计是给定字符串前缀的字符串数目(Count prefixes of a given string)](/2255.Count_prefixes_of_a_given_string.js)
 - [2259.移除指定数字得到的最大结果(Remove digit from number to maximize result)](/2259.Remove_digit_from_number_to_maximize_result.js)
+- [2278.字母在字符串中的百分比(Percentage of Letter in String)](/2278.Percentage_of_Letter_in_String.js)
 - [2351.第一个出现两次的字母(First Letter to Appear Twice)](/2351.First_Letter_to_Appear_Twice.js)
 - [2469.温度转换(Convert the Temperature)](/2469.Convert_the_Temperature.js)
 - [5456.在区间范围内统计奇数数目 (Count Odd Numbers in an Interval Range)](/5456.Count_Odd_Numbers_in_an_Interval_Range.js)
