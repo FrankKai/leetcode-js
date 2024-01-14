@@ -433,6 +433,7 @@ Leetcode's answers by JavaScript and TypeScript.
 - [145.二叉树的后序遍历（Binary Tree Postorder Traversal）](/145.Binary_Tree_Postorder_Traversal.js)
 - [146.LRU缓存机制 (LRU Cache)](/146.LRU_Cache.js)
 - [151.翻转字符串里的单词 (Reverse Words in a String)](/151.Reverse_Words_in_a_String.js)
+- [162.寻找峰值(Find Peak Element)](/162.Find_Peak_Element.js)
 - [165.比较版本号（Compare Version Numbers）](/165.Compare_Version_Numbers.js)
 - [187.重复的 DNA 序列 (Repeated DNA Sequences)](/187.Repeated_DNA_Sequences.js)
 - [215.数组中的第 K 个最大元素 (Kth Largest Element in an Array)](/215.Kth_Largest_Element_in_an_Array.js)
