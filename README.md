@@ -315,7 +315,7 @@ Leetcode's answers by JavaScript and TypeScript.
 - [2073.买票需要的时间(Time Needed to Buy Tickets)](/2073.Time_Needed_to_Buy_Tickets.js)
 - [2078.两栋颜色不同且距离最远的房子(Two Furthest Houses With Different Colors)](/2078.Two_Furthest_Houses_With_Different_Colors.js)
 - [2085.统计出现过一次的公共字符串(Count Common Words With One Occurrence)](/2085.Count_Common_Words_With_One_Occurrence.js)
-- [2089.找出数组排序后的目标下标(Find Target Indices After Sorting Array)](/2089.Find_Target_Indices_After_Sorting_Array.js
+- [2089.找出数组排序后的目标下标(Find Target Indices After Sorting Array)](/2089.Find_Target_Indices_After_Sorting_Array.js)
 - [2094.找出3位偶数(Finding 3-Digit Even Numbers)](/2094.Finding_3-Digit_Even_Numbers.js)
 - [2114.句子中的最多单词数(Maximum Number of Words Found in Sentences)](/2114.Maximum_Number_of_Words_Found_in_Sentences.js)
 - [2119.反转两次的数字(A Number After a Double Reversal)](/2119.A_Number_After_a_Double_Reversal.js)
