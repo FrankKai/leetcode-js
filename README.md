@@ -175,6 +175,7 @@ Leetcode's answers by JavaScript and TypeScript.
 - [1207.独一无二的出现次数 (Unique Number of Occurrences)](/1207.Unique_Number_of_Occurrences.js)
 - [1217.玩筹码(Minimum Cost to Move Chips to The Same Position)](/1217.Minimum_Cost_to_Move_Chips_to_The_Same_Position.js)
 - [1221.分割平衡字符串 (Split a String in Balanced Strings)](/1221.Split_a_String_in_Balanced_Strings.js)
+- [1232.缀点成线（Check If It Is a Straight Line）](/1232.Check_If_It_Is_a_Straight_Line.js)
 - [1252.奇数值单元格的数目 (Cells with Odd Values in a Matrix)](/1252.Cells_with_Odd_Values_in_a_Matrix.js)
 - [1281.整数的各位积和之差 (Subtract the Product and Sum of Digits of an Integer)](/1281.Subtract_the_Product_and_Sum_of_Digits_of_an_Integer.js)
 - [1287.有序数组中出现次数超过 25%的元素 (Element Appearing More Than 25% In Sorted Array)](/1287.Element_Appearing_More_Than_25_In_Sorted_Array.js)
