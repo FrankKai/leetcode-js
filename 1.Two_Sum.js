@@ -58,4 +58,33 @@ var twoSum = function (nums, target) {
     j++;
   }
   return [i, j];
+  /**
+  * 解法4：双指针
+  */
+  let result = [];
+  let i = 0;
+
+  while (i < nums.length - 1) {
+    let j = i + 1
+    while (j < nums.length) {
+      if (nums[i] + nums[j] === target) {
+        result = [i, j];
+        return result;
+      }
+      j++;
+    }
+    i++;
+  }
+
+  /**
+  * 解法5: Map
+  */
+  const map = new Map();
+  for(let i = 0;i<nums.length;i++){
+      const num = target - nums[i]
+      if(map.has(num)){
+          return [map.get(num), i];
+      }
+      map.set(nums[i], i);
+  }
 };
