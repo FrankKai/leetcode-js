@@ -65,4 +65,20 @@ var lengthOfLongestSubstring = function (s) {
     maxLength = map.size;
   }
   return maxLength;
+  /** 解法3：滑动窗口 **/
+  const set = new Set();
+  let i = 0;
+  let j = 0;
+  let len = 0;
+  while (i < s.length) {
+    if (!set.has(s[i])) {
+      set.add(s[i]);
+      len = Math.max(set.size, len);
+      i++;
+    } else {
+      set.delete(s[j])
+      j++;
+    }
+  }
+  return len;
 };
