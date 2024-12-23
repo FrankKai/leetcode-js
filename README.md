@@ -523,6 +523,7 @@ Leetcode's answers by JavaScript and TypeScript.
 - [1381.设计一个支持增量操作的栈(Design a Stack With Increment Operation)](/medium/1381.Design_a_Stack_With_Increment_Operation.js)
 - [1410.HTML 实体解析器 (HTML Entity Parser)](/medium/1410.HTML_Entity_Parser.js)
 - [1418.点菜展示表(Display Table of Food Orders in a Restaurant)](/medium/1418.Display_Table_of_Food_Orders_in_a_Restaurant.js)
+  [1456.定长子串中元音的最大数目(Maximum Number of Vowels in a Substring of Given Length)](/medium/1456.Maximum_Number_of_Vowels_in_a_Substring_of_Given_Length.js)
 - [1472.设计浏览器历史记录(Design Browser History)](/medium/1472.Design_Browser_History.js)
 - [1476.子矩阵查询 (Subrectangle Queries)](/medium/1476.Subrectangle_Queries.js)
 - [1551.使数组中所有元素相等的最小操作数 (Minimum Operations to Make Array Equal)](/medium/1551.Minimum_Operations_to_Make_Array_Equal.js)
