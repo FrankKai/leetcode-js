@@ -4,6 +4,16 @@
  * @return {number}
  */
 var removeElement = function (nums, val) {
+  // 解法3: 原地删除
+  let i = 0;
+  while (i < nums.length) {
+    if (val === nums[i]) {
+      nums.splice(i, 1)
+      continue;
+    }
+    i++;
+  }
+  return nums.length
   /**
    * 解法1：指针加递归
    * 性能：68ms 33.7MB
