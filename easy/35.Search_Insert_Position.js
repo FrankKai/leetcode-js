@@ -4,6 +4,20 @@
  * @return {number}
  */
 var searchInsert = function(nums, target) {
+  // 解法3：二分法
+  let left = 0;
+  let right = nums.length - 1;
+  while (left <= right) {
+    const mid = Math.floor((right - left) / 2) + left;
+    if (target === nums[mid]) {
+      return mid;
+    } else if (target > nums[mid]) {
+      left = mid + 1;
+    } else if (target < nums[mid]) {
+      right = mid - 1;
+    }
+  }
+  return left;
   /**
    * 解法1：最大最小值法 + 位置指针法 72ms better than 33%
    */
