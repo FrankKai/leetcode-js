@@ -5,18 +5,26 @@
  * @param {number} n
  * @return {void} Do not return anything, modify nums1 in-place instead.
  */
-var merge = function(nums1, m, nums2, n) {
-  /**
-   * 特别需要注意的点：这道题会检查nums1数组内存空间最后的存储情况
-   */
-  // splice截断数组
-  nums1.splice(m);
-  nums2.splice(n);
-  // 未使用concat的原因：concat返回一个新数组，而题目需要直接在nums1的空间进行存储
-  nums2.forEach(num2 => {
-    nums1.push(num2);
-  });
-  // sort排序当前数组
-  var ascArr = nums1.sort((a, b) => a - b);
-  return ascArr;
+var merge = function (nums1, m, nums2, n) {
+  let i = m - 1;
+  let j = n - 1;
+  let k = m + n - 1; // 当前的位置
+  // 按照顺序依次 重放nums1元素 填充num2元素
+  while (i >= 0 && j >= 0) {
+    if (nums1[i] > nums2[j]) {
+      nums1[k] = nums1[i]
+      i--;
+    } else {
+      nums1[k] = nums2[j]
+      j--;
+    }
+    k--;
+  }
+  // nums2中有剩余时，放置
+  while(j>=0){
+    nums1[k] = nums2[j]
+    j--;
+    k--;
+  }
+  return nums1;
 };
