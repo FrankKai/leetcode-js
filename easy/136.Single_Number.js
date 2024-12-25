@@ -3,6 +3,13 @@
  * @return {number}
  */
 var singleNumber = function (nums) {
+  // 异或运算：同0异1
+  // 成对的数字疑惑运算后 结果为0
+  // 0与其他数字异或后 还是那个数字
+  return nums.reduce((acc, cur)=> acc ^ cur, 0)
+
+
+  
   /** 解法1：暴力遍历
    *  性能：704ms 40.5MB
    */
