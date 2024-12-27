@@ -3,6 +3,20 @@
  * @return {boolean}
  */
 var isPalindrome = function (x) {
+  // 解法4
+  if (x < 0) return false;
+  const y = Math.abs(x).toString();
+  let i = 0;
+  let j = y.length - 1;
+  while (i < j) {
+    if (y[i] !== y[j]) {
+      return false;
+    }
+    i++;
+    j--;
+  }
+  return true
+  
   /**
    * 解法1
    * 性能：344ms 46.1MB
